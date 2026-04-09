@@ -1,0 +1,1082 @@
+order_id,customer_id,order_date,status,item_id,product_id,quantity,product_name,category,unit_price,customer_name,email,city,registration_date,line_total
+1,1,2024-01-05,completed,1,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,90.0
+1,1,2024-01-05,completed,2,6,1,Cotton T-Shirt,Clothing,18.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,18.0
+1,1,2024-01-05,completed,3,26,3,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,54.0
+2,2,2024-01-06,completed,4,17,1,Python Data Science Handbook,Books,55.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,55.0
+2,2,2024-01-06,completed,5,21,2,Yoga Mat,Sports,28.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,56.0
+4,4,2024-01-08,completed,9,8,1,Running Shoes,Clothing,78.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,78.0
+4,4,2024-01-08,completed,10,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,96.0
+4,4,2024-01-08,completed,11,22,1,Resistance Band Set,Sports,19.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,19.0
+5,5,2024-01-09,completed,12,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,32.0
+5,5,2024-01-09,completed,13,27,4,Jordanian Olive Oil 1L,Food & Beverage,24.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,96.0
+6,6,2024-01-10,shipped,14,10,2,Leather Belt,Clothing,30.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,60.0
+6,6,2024-01-10,shipped,15,16,1,Introduction to Algorithms,Books,85.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,85.0
+7,7,2024-01-11,completed,16,5,1,Webcam HD 1080p,Electronics,55.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,55.0
+7,7,2024-01-11,completed,17,11,3,Ceramic Plant Pot,Home & Garden,15.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,45.0
+7,7,2024-01-11,completed,18,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,9.5
+8,8,2024-01-12,completed,19,7,1,Denim Jeans,Clothing,52.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,52.0
+8,8,2024-01-12,completed,20,14,1,Kitchen Knife Set,Home & Garden,65.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,65.0
+9,9,2024-01-13,processing,21,2,3,USB-C Charging Cable,Electronics,8.5,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,25.5
+9,9,2024-01-13,processing,22,20,1,Clean Code,Books,42.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,42.0
+9,9,2024-01-13,processing,23,25,2,Sports Water Bottle,Sports,14.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,28.0
+10,10,2024-01-14,completed,24,9,1,Wool Scarf,Clothing,25.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,25.0
+10,10,2024-01-14,completed,25,18,1,Designing Data-Intensive Apps,Books,62.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,62.0
+10,10,2024-01-14,completed,26,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,30.0
+11,1,2024-01-15,completed,27,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,45.0
+11,1,2024-01-15,completed,28,23,2,Jump Rope,Sports,12.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,24.0
+12,11,2024-01-16,completed,29,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,22.0
+12,11,2024-01-16,completed,30,19,1,The Pragmatic Programmer,Books,48.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,48.0
+12,11,2024-01-16,completed,31,6,2,Cotton T-Shirt,Clothing,18.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,36.0
+14,13,2024-01-18,completed,34,8,2,Running Shoes,Clothing,78.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,156.0
+14,13,2024-01-18,completed,35,12,1,LED Desk Lamp,Home & Garden,42.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,42.0
+15,14,2024-01-19,shipped,36,16,1,Introduction to Algorithms,Books,85.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,85.0
+15,14,2024-01-19,shipped,37,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,32.0
+15,14,2024-01-19,shipped,38,21,1,Yoga Mat,Sports,28.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,28.0
+16,15,2024-01-20,completed,39,7,1,Denim Jeans,Clothing,52.0,Fadi Al-Zoubi,fadi.zoubi@email.com,Amman,2023-05-22,52.0
+16,15,2024-01-20,completed,40,28,3,Medjool Dates 1kg,Food & Beverage,32.0,Fadi Al-Zoubi,fadi.zoubi@email.com,Amman,2023-05-22,96.0
+17,16,2024-01-21,completed,41,5,2,Webcam HD 1080p,Electronics,55.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,110.0
+17,16,2024-01-21,completed,42,10,1,Leather Belt,Clothing,30.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,30.0
+18,17,2024-01-22,completed,43,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,48.0
+18,17,2024-01-22,completed,44,22,2,Resistance Band Set,Sports,19.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,38.0
+18,17,2024-01-22,completed,45,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,24.0
+19,18,2024-01-23,processing,46,2,4,USB-C Charging Cable,Electronics,8.5,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,34.0
+19,18,2024-01-23,processing,47,9,1,Wool Scarf,Clothing,25.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,25.0
+20,19,2024-01-24,completed,48,18,1,Designing Data-Intensive Apps,Books,62.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,62.0
+20,19,2024-01-24,completed,49,24,2,Dumbbell Pair 5kg,Sports,35.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,70.0
+20,19,2024-01-24,completed,50,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,15.0
+21,20,2024-01-25,completed,51,1,3,Wireless Bluetooth Earbuds,Electronics,45.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,135.0
+21,20,2024-01-25,completed,52,14,1,Kitchen Knife Set,Home & Garden,65.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,65.0
+23,22,2024-01-27,completed,56,11,1,Ceramic Plant Pot,Home & Garden,15.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,15.0
+23,22,2024-01-27,completed,57,17,2,Python Data Science Handbook,Books,55.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,110.0
+24,23,2024-01-28,shipped,58,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,32.0
+24,23,2024-01-28,shipped,59,25,3,Sports Water Bottle,Sports,14.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,42.0
+25,24,2024-01-29,completed,60,8,1,Running Shoes,Clothing,78.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,78.0
+25,24,2024-01-29,completed,61,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,22.0
+25,24,2024-01-29,completed,62,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,36.0
+26,25,2024-01-30,completed,63,16,1,Introduction to Algorithms,Books,85.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,85.0
+26,25,2024-01-30,completed,64,22,1,Resistance Band Set,Sports,19.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,19.0
+27,26,2024-02-01,completed,65,4,2,Mechanical Keyboard,Electronics,89.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,178.0
+27,26,2024-02-01,completed,66,10,1,Leather Belt,Clothing,30.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,30.0
+27,26,2024-02-01,completed,67,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,32.0
+28,27,2024-02-02,completed,68,7,1,Denim Jeans,Clothing,52.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,52.0
+28,27,2024-02-02,completed,69,19,1,The Pragmatic Programmer,Books,48.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,48.0
+29,28,2024-02-03,shipped,70,2,1,USB-C Charging Cable,Electronics,8.5,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,8.5
+29,28,2024-02-03,shipped,71,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,96.0
+29,28,2024-02-03,shipped,72,24,1,Dumbbell Pair 5kg,Sports,35.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,35.0
+30,29,2024-02-04,completed,73,5,1,Webcam HD 1080p,Electronics,55.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,55.0
+30,29,2024-02-04,completed,74,12,1,LED Desk Lamp,Home & Garden,42.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,42.0
+32,1,2024-02-06,completed,78,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,45.0
+32,1,2024-02-06,completed,79,18,1,Designing Data-Intensive Apps,Books,62.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,62.0
+33,2,2024-02-07,completed,80,14,1,Kitchen Knife Set,Home & Garden,65.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,65.0
+33,2,2024-02-07,completed,81,23,2,Jump Rope,Sports,12.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,24.0
+33,2,2024-02-07,completed,82,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,15.0
+34,3,2024-02-08,processing,83,6,3,Cotton T-Shirt,Clothing,18.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,54.0
+34,3,2024-02-08,processing,84,11,1,Ceramic Plant Pot,Home & Garden,15.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,15.0
+35,4,2024-02-09,completed,85,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,32.0
+35,4,2024-02-09,completed,86,16,1,Introduction to Algorithms,Books,85.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,85.0
+36,5,2024-02-10,completed,87,8,2,Running Shoes,Clothing,78.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,156.0
+36,5,2024-02-10,completed,88,20,1,Clean Code,Books,42.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,42.0
+36,5,2024-02-10,completed,89,25,1,Sports Water Bottle,Sports,14.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,14.0
+37,31,2024-02-11,completed,90,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,22.0
+37,31,2024-02-11,completed,91,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,19.0
+38,32,2024-02-12,shipped,92,4,1,Mechanical Keyboard,Electronics,89.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,89.0
+38,32,2024-02-12,shipped,93,17,1,Python Data Science Handbook,Books,55.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,55.0
+38,32,2024-02-12,shipped,94,22,1,Resistance Band Set,Sports,19.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,19.0
+39,33,2024-02-13,completed,95,7,1,Denim Jeans,Clothing,52.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,52.0
+39,33,2024-02-13,completed,96,26,4,Arabic Coffee Blend 500g,Food & Beverage,18.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,72.0
+40,34,2024-02-14,completed,97,10,1,Leather Belt,Clothing,30.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,30.0
+40,34,2024-02-14,completed,98,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,48.0
+42,36,2024-02-16,completed,102,5,1,Webcam HD 1080p,Electronics,55.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,55.0
+42,36,2024-02-16,completed,103,24,3,Dumbbell Pair 5kg,Sports,35.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,105.0
+43,37,2024-02-17,completed,104,9,1,Wool Scarf,Clothing,25.0,Muhannad Awamleh,muhannad.awamleh@email.com,Unknown,2023-11-22,25.0
+43,37,2024-02-17,completed,105,12,1,LED Desk Lamp,Home & Garden,42.0,Muhannad Awamleh,muhannad.awamleh@email.com,Unknown,2023-11-22,42.0
+44,38,2024-02-18,processing,106,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,45.0
+44,38,2024-02-18,processing,107,21,2,Yoga Mat,Sports,28.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,56.0
+44,38,2024-02-18,processing,108,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,15.0
+45,39,2024-02-19,completed,109,14,1,Kitchen Knife Set,Home & Garden,65.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,65.0
+45,39,2024-02-19,completed,110,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,24.0
+46,40,2024-02-20,completed,111,6,2,Cotton T-Shirt,Clothing,18.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,36.0
+46,40,2024-02-20,completed,112,16,1,Introduction to Algorithms,Books,85.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,85.0
+46,40,2024-02-20,completed,113,23,1,Jump Rope,Sports,12.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,12.0
+47,1,2024-03-01,completed,114,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,32.0
+47,1,2024-03-01,completed,115,11,2,Ceramic Plant Pot,Home & Garden,15.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,30.0
+48,6,2024-03-02,shipped,116,8,1,Running Shoes,Clothing,78.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,78.0
+48,6,2024-03-02,shipped,117,18,1,Designing Data-Intensive Apps,Books,62.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,62.0
+48,6,2024-03-02,shipped,118,25,2,Sports Water Bottle,Sports,14.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,28.0
+49,9,2024-03-03,completed,119,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,22.0
+49,9,2024-03-03,completed,120,20,1,Clean Code,Books,42.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,42.0
+50,10,2024-03-04,completed,121,4,2,Mechanical Keyboard,Electronics,89.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,178.0
+50,10,2024-03-04,completed,122,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,9.5
+50,10,2024-03-04,completed,123,7,1,Denim Jeans,Clothing,52.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,52.0
+52,20,2024-03-06,completed,127,17,1,Python Data Science Handbook,Books,55.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,55.0
+52,20,2024-03-06,completed,128,5,1,Webcam HD 1080p,Electronics,55.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,55.0
+53,22,2024-03-07,completed,129,8,2,Running Shoes,Clothing,78.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,156.0
+53,22,2024-03-07,completed,130,22,1,Resistance Band Set,Sports,19.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,19.0
+53,22,2024-03-07,completed,131,28,3,Medjool Dates 1kg,Food & Beverage,32.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,96.0
+54,25,2024-03-08,processing,132,14,1,Kitchen Knife Set,Home & Garden,65.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,65.0
+54,25,2024-03-08,processing,133,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,32.0
+55,28,2024-03-09,completed,134,6,1,Cotton T-Shirt,Clothing,18.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,18.0
+55,28,2024-03-09,completed,135,20,2,Clean Code,Books,42.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,84.0
+56,30,2024-03-10,completed,136,12,1,LED Desk Lamp,Home & Garden,42.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,42.0
+56,30,2024-03-10,completed,137,24,1,Dumbbell Pair 5kg,Sports,35.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,35.0
+56,30,2024-03-10,completed,138,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,15.0
+57,33,2024-03-11,shipped,139,9,3,Wool Scarf,Clothing,25.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,75.0
+57,33,2024-03-11,shipped,140,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,48.0
+58,35,2024-03-12,completed,141,2,1,USB-C Charging Cable,Electronics,8.5,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,8.5
+58,35,2024-03-12,completed,142,19,1,The Pragmatic Programmer,Books,48.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,48.0
+58,35,2024-03-12,completed,143,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,48.0
+59,38,2024-03-13,completed,144,7,1,Denim Jeans,Clothing,52.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,52.0
+59,38,2024-03-13,completed,145,11,1,Ceramic Plant Pot,Home & Garden,15.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,15.0
+61,41,2024-03-15,completed,149,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,45.0
+61,41,2024-03-15,completed,150,13,2,Stainless Steel Water Bottle,Home & Garden,22.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,44.0
+62,42,2024-03-16,completed,151,21,1,Yoga Mat,Sports,28.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,28.0
+62,42,2024-03-16,completed,152,25,1,Sports Water Bottle,Sports,14.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,14.0
+62,42,2024-03-16,completed,153,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,9.5
+63,43,2024-03-17,processing,154,5,1,Webcam HD 1080p,Electronics,55.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,55.0
+63,43,2024-03-17,processing,155,18,2,Designing Data-Intensive Apps,Books,62.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,124.0
+64,44,2024-03-18,completed,156,10,1,Leather Belt,Clothing,30.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,30.0
+64,44,2024-03-18,completed,157,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,32.0
+65,45,2024-03-19,shipped,158,8,1,Running Shoes,Clothing,78.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,78.0
+65,45,2024-03-19,shipped,159,14,1,Kitchen Knife Set,Home & Garden,65.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,65.0
+65,45,2024-03-19,shipped,160,22,2,Resistance Band Set,Sports,19.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,38.0
+66,46,2024-03-20,completed,161,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,32.0
+66,46,2024-03-20,completed,162,26,3,Arabic Coffee Blend 500g,Food & Beverage,18.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,54.0
+67,47,2024-03-21,completed,164,12,1,LED Desk Lamp,Home & Garden,42.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,42.0
+69,49,2024-03-23,completed,167,9,1,Wool Scarf,Clothing,25.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,25.0
+69,49,2024-03-23,completed,168,24,1,Dumbbell Pair 5kg,Sports,35.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,35.0
+69,49,2024-03-23,completed,169,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,30.0
+70,50,2024-03-24,completed,170,7,1,Denim Jeans,Clothing,52.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,52.0
+70,50,2024-03-24,completed,171,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,48.0
+71,2,2024-04-01,completed,172,2,2,USB-C Charging Cable,Electronics,8.5,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,17.0
+71,2,2024-04-01,completed,173,11,1,Ceramic Plant Pot,Home & Garden,15.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,15.0
+71,2,2024-04-01,completed,174,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,24.0
+72,4,2024-04-02,shipped,175,4,1,Mechanical Keyboard,Electronics,89.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,89.0
+72,4,2024-04-02,shipped,176,19,3,The Pragmatic Programmer,Books,48.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,144.0
+73,7,2024-04-03,completed,177,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,45.0
+73,7,2024-04-03,completed,178,17,1,Python Data Science Handbook,Books,55.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,55.0
+74,11,2024-04-04,completed,179,13,2,Stainless Steel Water Bottle,Home & Garden,22.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,44.0
+74,11,2024-04-04,completed,180,23,1,Jump Rope,Sports,12.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,12.0
+74,11,2024-04-04,completed,181,25,1,Sports Water Bottle,Sports,14.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,14.0
+75,14,2024-04-05,processing,182,5,1,Webcam HD 1080p,Electronics,55.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,55.0
+75,14,2024-04-05,processing,183,21,2,Yoga Mat,Sports,28.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,56.0
+76,18,2024-04-06,completed,184,8,1,Running Shoes,Clothing,78.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,78.0
+76,18,2024-04-06,completed,185,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,32.0
+78,23,2024-04-08,completed,189,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,64.0
+78,23,2024-04-08,completed,190,16,1,Introduction to Algorithms,Books,85.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,85.0
+79,26,2024-04-09,completed,191,6,1,Cotton T-Shirt,Clothing,18.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,18.0
+79,26,2024-04-09,completed,192,22,1,Resistance Band Set,Sports,19.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,19.0
+79,26,2024-04-09,completed,193,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,36.0
+80,29,2024-04-10,shipped,194,12,1,LED Desk Lamp,Home & Garden,42.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,42.0
+80,29,2024-04-10,shipped,195,20,1,Clean Code,Books,42.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,42.0
+81,32,2024-04-11,completed,196,9,1,Wool Scarf,Clothing,25.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,25.0
+81,32,2024-04-11,completed,197,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,96.0
+81,32,2024-04-11,completed,198,24,1,Dumbbell Pair 5kg,Sports,35.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,35.0
+82,34,2024-04-12,completed,199,7,1,Denim Jeans,Clothing,52.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,52.0
+82,34,2024-04-12,completed,200,18,1,Designing Data-Intensive Apps,Books,62.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,62.0
+84,39,2024-04-14,completed,204,4,1,Mechanical Keyboard,Electronics,89.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,89.0
+84,39,2024-04-14,completed,205,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,48.0
+85,41,2024-04-15,processing,206,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,45.0
+85,41,2024-04-15,processing,207,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,22.0
+85,41,2024-04-15,processing,208,19,1,The Pragmatic Programmer,Books,48.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,48.0
+86,43,2024-04-16,completed,209,5,2,Webcam HD 1080p,Electronics,55.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,110.0
+86,43,2024-04-16,completed,210,17,1,Python Data Science Handbook,Books,55.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,55.0
+87,45,2024-04-17,completed,211,8,1,Running Shoes,Clothing,78.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,78.0
+87,45,2024-04-17,completed,212,23,1,Jump Rope,Sports,12.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,12.0
+87,45,2024-04-17,completed,213,25,2,Sports Water Bottle,Sports,14.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,28.0
+88,47,2024-04-18,shipped,214,10,1,Leather Belt,Clothing,30.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,30.0
+88,47,2024-04-18,shipped,215,21,1,Yoga Mat,Sports,28.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,28.0
+89,50,2024-04-19,completed,216,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,32.0
+89,50,2024-04-19,completed,217,16,2,Introduction to Algorithms,Books,85.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,170.0
+89,50,2024-04-19,completed,218,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,32.0
+90,51,2024-04-20,completed,219,14,1,Kitchen Knife Set,Home & Garden,65.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,65.0
+90,51,2024-04-20,completed,220,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,18.0
+92,53,2024-04-22,completed,224,9,2,Wool Scarf,Clothing,25.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,50.0
+92,53,2024-04-22,completed,225,20,1,Clean Code,Books,42.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,42.0
+93,54,2024-04-23,completed,226,7,1,Denim Jeans,Clothing,52.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,52.0
+93,54,2024-04-23,completed,227,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,48.0
+93,54,2024-04-23,completed,228,22,1,Resistance Band Set,Sports,19.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,19.0
+94,55,2024-04-24,processing,229,2,1,USB-C Charging Cable,Electronics,8.5,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,8.5
+94,55,2024-04-24,processing,230,24,2,Dumbbell Pair 5kg,Sports,35.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,70.0
+95,1,2024-05-01,completed,231,4,1,Mechanical Keyboard,Electronics,89.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,89.0
+95,1,2024-05-01,completed,232,11,1,Ceramic Plant Pot,Home & Garden,15.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,15.0
+95,1,2024-05-01,completed,233,27,3,Jordanian Olive Oil 1L,Food & Beverage,24.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,72.0
+96,3,2024-05-02,completed,234,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,90.0
+96,3,2024-05-02,completed,235,18,1,Designing Data-Intensive Apps,Books,62.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,62.0
+97,5,2024-05-03,shipped,236,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,22.0
+97,5,2024-05-03,shipped,237,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,15.0
+98,8,2024-05-04,completed,238,5,1,Webcam HD 1080p,Electronics,55.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,55.0
+98,8,2024-05-04,completed,239,17,2,Python Data Science Handbook,Books,55.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,110.0
+98,8,2024-05-04,completed,240,23,1,Jump Rope,Sports,12.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,12.0
+99,10,2024-05-05,completed,241,8,1,Running Shoes,Clothing,78.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,78.0
+99,10,2024-05-05,completed,242,19,1,The Pragmatic Programmer,Books,48.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,48.0
+101,16,2024-05-07,completed,246,6,2,Cotton T-Shirt,Clothing,18.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,36.0
+101,16,2024-05-07,completed,247,21,1,Yoga Mat,Sports,28.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,28.0
+101,16,2024-05-07,completed,248,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,18.0
+102,19,2024-05-08,processing,249,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,32.0
+102,19,2024-05-08,processing,250,12,1,LED Desk Lamp,Home & Garden,42.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,42.0
+103,22,2024-05-09,completed,251,9,1,Wool Scarf,Clothing,25.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,25.0
+103,22,2024-05-09,completed,252,16,2,Introduction to Algorithms,Books,85.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,170.0
+103,22,2024-05-09,completed,253,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,32.0
+104,24,2024-05-10,completed,254,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,45.0
+104,24,2024-05-10,completed,255,22,1,Resistance Band Set,Sports,19.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,19.0
+105,27,2024-05-11,shipped,256,7,1,Denim Jeans,Clothing,52.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,52.0
+105,27,2024-05-11,shipped,257,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,48.0
+105,27,2024-05-11,shipped,258,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,30.0
+106,30,2024-05-12,completed,259,4,1,Mechanical Keyboard,Electronics,89.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,89.0
+106,30,2024-05-12,completed,260,18,1,Designing Data-Intensive Apps,Books,62.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,62.0
+107,33,2024-05-13,completed,261,2,2,USB-C Charging Cable,Electronics,8.5,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,17.0
+107,33,2024-05-13,completed,262,11,1,Ceramic Plant Pot,Home & Garden,15.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,15.0
+107,33,2024-05-13,completed,263,24,1,Dumbbell Pair 5kg,Sports,35.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,35.0
+109,38,2024-05-15,completed,266,14,1,Kitchen Knife Set,Home & Garden,65.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,65.0
+109,38,2024-05-15,completed,267,27,3,Jordanian Olive Oil 1L,Food & Beverage,24.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,72.0
+109,38,2024-05-15,completed,268,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,9.5
+110,40,2024-05-16,completed,269,8,1,Running Shoes,Clothing,78.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,78.0
+110,40,2024-05-16,completed,270,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,22.0
+111,42,2024-05-17,processing,271,10,2,Leather Belt,Clothing,30.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,60.0
+111,42,2024-05-17,processing,272,17,1,Python Data Science Handbook,Books,55.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,55.0
+111,42,2024-05-17,processing,273,23,1,Jump Rope,Sports,12.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,12.0
+112,44,2024-05-18,completed,274,6,1,Cotton T-Shirt,Clothing,18.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,18.0
+112,44,2024-05-18,completed,275,25,1,Sports Water Bottle,Sports,14.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,14.0
+113,46,2024-05-19,shipped,276,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,32.0
+113,46,2024-05-19,shipped,277,19,2,The Pragmatic Programmer,Books,48.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,96.0
+113,46,2024-05-19,shipped,278,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,15.0
+114,48,2024-05-20,completed,279,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,45.0
+114,48,2024-05-20,completed,280,9,1,Wool Scarf,Clothing,25.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,25.0
+115,50,2024-05-21,completed,281,12,1,LED Desk Lamp,Home & Garden,42.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,42.0
+115,50,2024-05-21,completed,282,16,1,Introduction to Algorithms,Books,85.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,85.0
+115,50,2024-05-21,completed,283,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,36.0
+117,55,2024-05-23,completed,286,4,1,Mechanical Keyboard,Electronics,89.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,89.0
+117,55,2024-05-23,completed,287,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,32.0
+118,56,2024-05-24,completed,289,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Siham Majdalawi,siham.majdalawi@email.com,Unknown,2024-05-12,48.0
+119,57,2024-05-25,processing,290,5,1,Webcam HD 1080p,Electronics,55.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,55.0
+119,57,2024-05-25,processing,291,22,2,Resistance Band Set,Sports,19.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,38.0
+119,57,2024-05-25,processing,292,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,9.5
+120,58,2024-05-26,completed,293,8,1,Running Shoes,Clothing,78.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,78.0
+120,58,2024-05-26,completed,294,11,1,Ceramic Plant Pot,Home & Garden,15.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,15.0
+121,2,2024-06-01,completed,295,14,1,Kitchen Knife Set,Home & Garden,65.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,65.0
+121,2,2024-06-01,completed,296,20,1,Clean Code,Books,42.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,42.0
+121,2,2024-06-01,completed,297,24,2,Dumbbell Pair 5kg,Sports,35.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,70.0
+122,5,2024-06-02,shipped,298,10,1,Leather Belt,Clothing,30.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,30.0
+122,5,2024-06-02,shipped,299,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,24.0
+123,9,2024-06-03,completed,300,6,2,Cotton T-Shirt,Clothing,18.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,36.0
+123,9,2024-06-03,completed,301,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,22.0
+123,9,2024-06-03,completed,302,18,1,Designing Data-Intensive Apps,Books,62.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,62.0
+124,12,2024-06-04,completed,303,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,32.0
+124,12,2024-06-04,completed,304,23,1,Jump Rope,Sports,12.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,12.0
+126,17,2024-06-06,completed,308,9,1,Wool Scarf,Clothing,25.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,25.0
+126,17,2024-06-06,completed,309,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,15.0
+127,20,2024-06-07,processing,310,7,1,Denim Jeans,Clothing,52.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,52.0
+127,20,2024-06-07,processing,311,12,1,LED Desk Lamp,Home & Garden,42.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,42.0
+127,20,2024-06-07,processing,312,26,3,Arabic Coffee Blend 500g,Food & Beverage,18.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,54.0
+128,23,2024-06-08,completed,313,4,2,Mechanical Keyboard,Electronics,89.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,178.0
+128,23,2024-06-08,completed,314,19,1,The Pragmatic Programmer,Books,48.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,48.0
+129,25,2024-06-09,completed,315,2,1,USB-C Charging Cable,Electronics,8.5,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,8.5
+129,25,2024-06-09,completed,316,17,1,Python Data Science Handbook,Books,55.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,55.0
+129,25,2024-06-09,completed,317,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,32.0
+130,28,2024-06-10,shipped,318,5,1,Webcam HD 1080p,Electronics,55.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,55.0
+130,28,2024-06-10,shipped,319,21,2,Yoga Mat,Sports,28.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,56.0
+131,31,2024-06-11,completed,320,8,1,Running Shoes,Clothing,78.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,78.0
+131,31,2024-06-11,completed,321,14,1,Kitchen Knife Set,Home & Garden,65.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,65.0
+131,31,2024-06-11,completed,322,22,1,Resistance Band Set,Sports,19.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,19.0
+132,34,2024-06-12,completed,323,10,1,Leather Belt,Clothing,30.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,30.0
+132,34,2024-06-12,completed,324,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,9.5
+134,39,2024-06-14,completed,328,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,32.0
+134,39,2024-06-14,completed,329,20,1,Clean Code,Books,42.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,42.0
+135,41,2024-06-15,completed,330,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,45.0
+135,41,2024-06-15,completed,331,11,3,Ceramic Plant Pot,Home & Garden,15.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,45.0
+135,41,2024-06-15,completed,332,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,24.0
+136,43,2024-06-16,processing,333,9,1,Wool Scarf,Clothing,25.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,25.0
+136,43,2024-06-16,processing,334,18,1,Designing Data-Intensive Apps,Books,62.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,62.0
+137,46,2024-06-17,completed,335,7,2,Denim Jeans,Clothing,52.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,104.0
+137,46,2024-06-17,completed,336,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,22.0
+137,46,2024-06-17,completed,337,25,1,Sports Water Bottle,Sports,14.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,14.0
+138,49,2024-06-18,shipped,338,4,1,Mechanical Keyboard,Electronics,89.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,89.0
+138,49,2024-06-18,shipped,339,23,1,Jump Rope,Sports,12.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,12.0
+139,51,2024-06-19,completed,340,2,1,USB-C Charging Cable,Electronics,8.5,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,8.5
+139,51,2024-06-19,completed,341,16,1,Introduction to Algorithms,Books,85.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,85.0
+139,51,2024-06-19,completed,342,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,30.0
+140,53,2024-06-20,completed,343,5,1,Webcam HD 1080p,Electronics,55.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,55.0
+140,53,2024-06-20,completed,344,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,18.0
+142,57,2024-06-22,completed,348,10,1,Leather Belt,Clothing,30.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,30.0
+142,57,2024-06-22,completed,349,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,32.0
+143,59,2024-06-23,completed,350,6,1,Cotton T-Shirt,Clothing,18.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,18.0
+143,59,2024-06-23,completed,351,14,1,Kitchen Knife Set,Home & Garden,65.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,65.0
+143,59,2024-06-23,completed,352,21,2,Yoga Mat,Sports,28.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,56.0
+144,60,2024-06-24,processing,353,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,32.0
+144,60,2024-06-24,processing,354,17,1,Python Data Science Handbook,Books,55.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,55.0
+145,1,2024-07-01,completed,355,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,90.0
+145,1,2024-07-01,completed,356,9,1,Wool Scarf,Clothing,25.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,25.0
+145,1,2024-07-01,completed,357,22,1,Resistance Band Set,Sports,19.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,19.0
+146,4,2024-07-02,completed,358,7,1,Denim Jeans,Clothing,52.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,52.0
+146,4,2024-07-02,completed,359,24,1,Dumbbell Pair 5kg,Sports,35.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,35.0
+147,7,2024-07-03,shipped,360,4,1,Mechanical Keyboard,Electronics,89.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,89.0
+147,7,2024-07-03,shipped,361,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,48.0
+147,7,2024-07-03,shipped,362,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,19.0
+148,10,2024-07-04,completed,363,2,1,USB-C Charging Cable,Electronics,8.5,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,8.5
+148,10,2024-07-04,completed,364,20,1,Clean Code,Books,42.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,42.0
+149,13,2024-07-05,completed,365,5,1,Webcam HD 1080p,Electronics,55.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,55.0
+149,13,2024-07-05,completed,366,11,2,Ceramic Plant Pot,Home & Garden,15.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,30.0
+149,13,2024-07-05,completed,367,25,1,Sports Water Bottle,Sports,14.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,14.0
+151,19,2024-07-07,completed,370,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,22.0
+151,19,2024-07-07,completed,371,18,2,Designing Data-Intensive Apps,Books,62.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,124.0
+151,19,2024-07-07,completed,372,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,15.0
+152,22,2024-07-08,processing,373,6,1,Cotton T-Shirt,Clothing,18.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,18.0
+152,22,2024-07-08,processing,374,10,1,Leather Belt,Clothing,30.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,30.0
+153,24,2024-07-09,completed,375,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,45.0
+153,24,2024-07-09,completed,376,23,1,Jump Rope,Sports,12.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,12.0
+153,24,2024-07-09,completed,377,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,36.0
+154,27,2024-07-10,completed,378,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,64.0
+154,27,2024-07-10,completed,379,16,1,Introduction to Algorithms,Books,85.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,85.0
+155,30,2024-07-11,shipped,380,9,1,Wool Scarf,Clothing,25.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,25.0
+155,30,2024-07-11,shipped,381,21,1,Yoga Mat,Sports,28.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,28.0
+155,30,2024-07-11,shipped,382,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,32.0
+156,33,2024-07-12,completed,383,7,1,Denim Jeans,Clothing,52.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,52.0
+156,33,2024-07-12,completed,384,14,1,Kitchen Knife Set,Home & Garden,65.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,65.0
+157,35,2024-07-13,completed,385,4,1,Mechanical Keyboard,Electronics,89.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,89.0
+157,35,2024-07-13,completed,386,19,2,The Pragmatic Programmer,Books,48.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,96.0
+157,35,2024-07-13,completed,387,25,1,Sports Water Bottle,Sports,14.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,14.0
+159,40,2024-07-15,completed,390,5,1,Webcam HD 1080p,Electronics,55.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,55.0
+159,40,2024-07-15,completed,391,17,1,Python Data Science Handbook,Books,55.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,55.0
+159,40,2024-07-15,completed,392,22,2,Resistance Band Set,Sports,19.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,38.0
+160,42,2024-07-16,completed,393,8,1,Running Shoes,Clothing,78.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,78.0
+160,42,2024-07-16,completed,394,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,9.5
+161,44,2024-07-17,processing,395,10,2,Leather Belt,Clothing,30.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,60.0
+161,44,2024-07-17,processing,396,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,48.0
+161,44,2024-07-17,processing,397,24,1,Dumbbell Pair 5kg,Sports,35.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,35.0
+162,47,2024-07-18,completed,398,6,1,Cotton T-Shirt,Clothing,18.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,18.0
+162,47,2024-07-18,completed,399,20,1,Clean Code,Books,42.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,42.0
+163,50,2024-07-19,shipped,400,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,45.0
+163,50,2024-07-19,shipped,401,11,1,Ceramic Plant Pot,Home & Garden,15.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,15.0
+163,50,2024-07-19,shipped,402,27,3,Jordanian Olive Oil 1L,Food & Beverage,24.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,72.0
+164,52,2024-07-20,completed,403,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,32.0
+164,52,2024-07-20,completed,404,18,1,Designing Data-Intensive Apps,Books,62.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,62.0
+165,54,2024-07-21,completed,405,9,2,Wool Scarf,Clothing,25.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,50.0
+165,54,2024-07-21,completed,406,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,22.0
+165,54,2024-07-21,completed,407,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,15.0
+167,58,2024-07-23,completed,410,4,1,Mechanical Keyboard,Electronics,89.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,89.0
+167,58,2024-07-23,completed,411,16,2,Introduction to Algorithms,Books,85.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,170.0
+167,58,2024-07-23,completed,412,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,18.0
+168,60,2024-07-24,completed,413,2,1,USB-C Charging Cable,Electronics,8.5,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,8.5
+168,60,2024-07-24,completed,414,21,1,Yoga Mat,Sports,28.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,28.0
+169,61,2024-07-25,processing,415,5,1,Webcam HD 1080p,Electronics,55.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,55.0
+169,61,2024-07-25,processing,416,14,1,Kitchen Knife Set,Home & Garden,65.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,65.0
+169,61,2024-07-25,processing,417,28,2,Medjool Dates 1kg,Food & Beverage,32.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,64.0
+170,62,2024-07-26,completed,418,8,1,Running Shoes,Clothing,78.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,78.0
+170,62,2024-07-26,completed,419,25,1,Sports Water Bottle,Sports,14.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,14.0
+171,3,2024-08-01,completed,420,10,1,Leather Belt,Clothing,30.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,30.0
+171,3,2024-08-01,completed,421,19,1,The Pragmatic Programmer,Books,48.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,48.0
+171,3,2024-08-01,completed,422,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,9.5
+172,6,2024-08-02,shipped,423,6,2,Cotton T-Shirt,Clothing,18.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,36.0
+172,6,2024-08-02,shipped,424,12,1,LED Desk Lamp,Home & Garden,42.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,42.0
+173,8,2024-08-03,completed,425,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,45.0
+173,8,2024-08-03,completed,426,17,1,Python Data Science Handbook,Books,55.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,55.0
+173,8,2024-08-03,completed,427,22,2,Resistance Band Set,Sports,19.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,38.0
+174,11,2024-08-04,completed,428,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,32.0
+174,11,2024-08-04,completed,429,20,1,Clean Code,Books,42.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,42.0
+176,17,2024-08-06,completed,433,7,1,Denim Jeans,Clothing,52.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,52.0
+176,17,2024-08-06,completed,434,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,24.0
+177,20,2024-08-07,processing,435,4,2,Mechanical Keyboard,Electronics,89.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,178.0
+177,20,2024-08-07,processing,436,11,1,Ceramic Plant Pot,Home & Garden,15.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,15.0
+177,20,2024-08-07,processing,437,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,15.0
+178,23,2024-08-08,completed,438,2,1,USB-C Charging Cable,Electronics,8.5,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,8.5
+178,23,2024-08-08,completed,439,18,1,Designing Data-Intensive Apps,Books,62.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,62.0
+179,26,2024-08-09,completed,440,5,1,Webcam HD 1080p,Electronics,55.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,55.0
+179,26,2024-08-09,completed,441,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,22.0
+179,26,2024-08-09,completed,442,26,3,Arabic Coffee Blend 500g,Food & Beverage,18.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,54.0
+180,29,2024-08-10,shipped,443,8,1,Running Shoes,Clothing,78.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,78.0
+180,29,2024-08-10,shipped,444,23,1,Jump Rope,Sports,12.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,12.0
+181,31,2024-08-11,completed,445,10,1,Leather Belt,Clothing,30.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,30.0
+181,31,2024-08-11,completed,446,16,2,Introduction to Algorithms,Books,85.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,170.0
+181,31,2024-08-11,completed,447,21,1,Yoga Mat,Sports,28.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,28.0
+182,34,2024-08-12,completed,448,6,1,Cotton T-Shirt,Clothing,18.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,18.0
+182,34,2024-08-12,completed,449,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,32.0
+184,39,2024-08-14,completed,452,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,32.0
+184,39,2024-08-14,completed,453,25,1,Sports Water Bottle,Sports,14.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,14.0
+185,41,2024-08-15,completed,454,9,1,Wool Scarf,Clothing,25.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,25.0
+185,41,2024-08-15,completed,455,19,2,The Pragmatic Programmer,Books,48.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,96.0
+185,41,2024-08-15,completed,456,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,9.5
+186,44,2024-08-16,processing,457,7,1,Denim Jeans,Clothing,52.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,52.0
+186,44,2024-08-16,processing,458,12,1,LED Desk Lamp,Home & Garden,42.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,42.0
+187,46,2024-08-17,completed,459,4,1,Mechanical Keyboard,Electronics,89.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,89.0
+187,46,2024-08-17,completed,460,17,1,Python Data Science Handbook,Books,55.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,55.0
+187,46,2024-08-17,completed,461,22,1,Resistance Band Set,Sports,19.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,19.0
+188,48,2024-08-18,shipped,462,2,2,USB-C Charging Cable,Electronics,8.5,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,17.0
+188,48,2024-08-18,shipped,463,20,1,Clean Code,Books,42.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,42.0
+189,51,2024-08-19,completed,464,5,1,Webcam HD 1080p,Electronics,55.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,55.0
+189,51,2024-08-19,completed,465,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,48.0
+189,51,2024-08-19,completed,466,24,2,Dumbbell Pair 5kg,Sports,35.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,70.0
+190,53,2024-08-20,completed,467,8,1,Running Shoes,Clothing,78.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,78.0
+190,53,2024-08-20,completed,468,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,24.0
+192,57,2024-08-22,completed,472,6,1,Cotton T-Shirt,Clothing,18.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,18.0
+192,57,2024-08-22,completed,473,18,1,Designing Data-Intensive Apps,Books,62.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,62.0
+193,59,2024-08-23,completed,474,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,45.0
+193,59,2024-08-23,completed,475,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,22.0
+193,59,2024-08-23,completed,476,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,18.0
+194,61,2024-08-24,processing,477,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,64.0
+194,61,2024-08-24,processing,478,23,1,Jump Rope,Sports,12.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,12.0
+195,63,2024-08-25,completed,479,9,1,Wool Scarf,Clothing,25.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,25.0
+195,63,2024-08-25,completed,480,16,1,Introduction to Algorithms,Books,85.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,85.0
+195,63,2024-08-25,completed,481,21,2,Yoga Mat,Sports,28.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,56.0
+196,64,2024-08-26,completed,482,7,1,Denim Jeans,Clothing,52.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,52.0
+196,64,2024-08-26,completed,483,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,32.0
+197,2,2024-09-01,completed,484,4,1,Mechanical Keyboard,Electronics,89.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,89.0
+197,2,2024-09-01,completed,485,19,1,The Pragmatic Programmer,Books,48.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,48.0
+197,2,2024-09-01,completed,486,25,1,Sports Water Bottle,Sports,14.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,14.0
+198,5,2024-09-02,shipped,487,2,1,USB-C Charging Cable,Electronics,8.5,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,8.5
+198,5,2024-09-02,shipped,488,14,2,Kitchen Knife Set,Home & Garden,65.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,130.0
+199,9,2024-09-03,completed,489,5,1,Webcam HD 1080p,Electronics,55.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,55.0
+199,9,2024-09-03,completed,490,12,1,LED Desk Lamp,Home & Garden,42.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,42.0
+199,9,2024-09-03,completed,491,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,9.5
+200,12,2024-09-04,completed,492,8,1,Running Shoes,Clothing,78.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,78.0
+200,12,2024-09-04,completed,493,20,1,Clean Code,Books,42.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,42.0
+202,18,2024-09-06,completed,497,6,1,Cotton T-Shirt,Clothing,18.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,18.0
+202,18,2024-09-06,completed,498,22,1,Resistance Band Set,Sports,19.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,19.0
+203,21,2024-09-07,processing,499,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,90.0
+203,21,2024-09-07,processing,500,11,1,Ceramic Plant Pot,Home & Garden,15.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,15.0
+203,21,2024-09-07,processing,501,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,24.0
+204,24,2024-09-08,completed,502,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,32.0
+204,24,2024-09-08,completed,503,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,48.0
+205,27,2024-09-09,completed,504,9,1,Wool Scarf,Clothing,25.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,25.0
+205,27,2024-09-09,completed,505,18,1,Designing Data-Intensive Apps,Books,62.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,62.0
+205,27,2024-09-09,completed,506,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,30.0
+206,30,2024-09-10,shipped,507,7,1,Denim Jeans,Clothing,52.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,52.0
+206,30,2024-09-10,shipped,508,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,22.0
+207,32,2024-09-11,completed,509,4,2,Mechanical Keyboard,Electronics,89.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,178.0
+207,32,2024-09-11,completed,510,20,1,Clean Code,Books,42.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,42.0
+207,32,2024-09-11,completed,511,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,18.0
+208,35,2024-09-12,completed,512,2,1,USB-C Charging Cable,Electronics,8.5,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,8.5
+208,35,2024-09-12,completed,513,23,1,Jump Rope,Sports,12.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,12.0
+210,40,2024-09-14,completed,517,8,1,Running Shoes,Clothing,78.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,78.0
+210,40,2024-09-14,completed,518,21,1,Yoga Mat,Sports,28.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,28.0
+211,43,2024-09-15,completed,519,10,1,Leather Belt,Clothing,30.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,30.0
+211,43,2024-09-15,completed,520,14,2,Kitchen Knife Set,Home & Garden,65.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,130.0
+211,43,2024-09-15,completed,521,25,1,Sports Water Bottle,Sports,14.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,14.0
+212,45,2024-09-16,processing,522,6,1,Cotton T-Shirt,Clothing,18.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,18.0
+212,45,2024-09-16,processing,523,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,9.5
+213,48,2024-09-17,completed,524,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,45.0
+213,48,2024-09-17,completed,525,19,1,The Pragmatic Programmer,Books,48.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,48.0
+213,48,2024-09-17,completed,526,12,2,LED Desk Lamp,Home & Garden,42.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,84.0
+214,50,2024-09-18,shipped,527,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,32.0
+214,50,2024-09-18,shipped,528,24,1,Dumbbell Pair 5kg,Sports,35.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,35.0
+215,52,2024-09-19,completed,529,9,2,Wool Scarf,Clothing,25.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,50.0
+215,52,2024-09-19,completed,530,17,1,Python Data Science Handbook,Books,55.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,55.0
+215,52,2024-09-19,completed,531,22,1,Resistance Band Set,Sports,19.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,19.0
+216,54,2024-09-20,completed,532,7,1,Denim Jeans,Clothing,52.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,52.0
+216,54,2024-09-20,completed,533,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,15.0
+218,58,2024-09-22,completed,537,2,1,USB-C Charging Cable,Electronics,8.5,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,8.5
+218,58,2024-09-22,completed,538,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,48.0
+219,60,2024-09-23,completed,539,5,1,Webcam HD 1080p,Electronics,55.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,55.0
+219,60,2024-09-23,completed,540,18,2,Designing Data-Intensive Apps,Books,62.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,124.0
+219,60,2024-09-23,completed,541,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,22.0
+220,62,2024-09-24,processing,542,8,1,Running Shoes,Clothing,78.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,78.0
+220,62,2024-09-24,processing,543,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,18.0
+221,65,2024-09-25,completed,544,10,1,Leather Belt,Clothing,30.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,30.0
+221,65,2024-09-25,completed,545,20,1,Clean Code,Books,42.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,42.0
+221,65,2024-09-25,completed,546,23,2,Jump Rope,Sports,12.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,24.0
+222,66,2024-09-26,completed,547,6,1,Cotton T-Shirt,Clothing,18.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,18.0
+222,66,2024-09-26,completed,548,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,32.0
+223,1,2024-10-01,completed,549,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,90.0
+223,1,2024-10-01,completed,550,16,1,Introduction to Algorithms,Books,85.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,85.0
+223,1,2024-10-01,completed,551,25,1,Sports Water Bottle,Sports,14.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,14.0
+224,4,2024-10-02,shipped,552,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,32.0
+224,4,2024-10-02,shipped,553,21,1,Yoga Mat,Sports,28.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,28.0
+225,7,2024-10-03,completed,554,9,1,Wool Scarf,Clothing,25.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,25.0
+225,7,2024-10-03,completed,555,14,1,Kitchen Knife Set,Home & Garden,65.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,65.0
+225,7,2024-10-03,completed,556,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,19.0
+226,10,2024-10-04,completed,557,7,1,Denim Jeans,Clothing,52.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,52.0
+226,10,2024-10-04,completed,558,19,1,The Pragmatic Programmer,Books,48.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,48.0
+228,16,2024-10-06,completed,562,2,1,USB-C Charging Cable,Electronics,8.5,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,8.5
+228,16,2024-10-06,completed,563,17,1,Python Data Science Handbook,Books,55.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,55.0
+229,19,2024-10-07,processing,564,5,2,Webcam HD 1080p,Electronics,55.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,110.0
+229,19,2024-10-07,processing,565,22,1,Resistance Band Set,Sports,19.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,19.0
+229,19,2024-10-07,processing,566,11,1,Ceramic Plant Pot,Home & Garden,15.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,15.0
+230,22,2024-10-08,completed,567,8,1,Running Shoes,Clothing,78.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,78.0
+230,22,2024-10-08,completed,568,24,1,Dumbbell Pair 5kg,Sports,35.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,35.0
+231,25,2024-10-09,completed,569,10,1,Leather Belt,Clothing,30.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,30.0
+231,25,2024-10-09,completed,570,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,48.0
+231,25,2024-10-09,completed,571,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,48.0
+232,28,2024-10-10,shipped,572,6,1,Cotton T-Shirt,Clothing,18.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,18.0
+232,28,2024-10-10,shipped,573,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,22.0
+233,31,2024-10-11,completed,574,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,45.0
+233,31,2024-10-11,completed,575,20,2,Clean Code,Books,42.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,84.0
+233,31,2024-10-11,completed,576,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,18.0
+234,33,2024-10-12,completed,577,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,32.0
+234,33,2024-10-12,completed,578,23,1,Jump Rope,Sports,12.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,12.0
+236,39,2024-10-14,completed,582,7,2,Denim Jeans,Clothing,52.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,104.0
+236,39,2024-10-14,completed,583,16,1,Introduction to Algorithms,Books,85.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,85.0
+237,42,2024-10-15,completed,584,4,1,Mechanical Keyboard,Electronics,89.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,89.0
+237,42,2024-10-15,completed,585,21,1,Yoga Mat,Sports,28.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,28.0
+237,42,2024-10-15,completed,586,25,2,Sports Water Bottle,Sports,14.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,28.0
+238,44,2024-10-16,processing,587,2,1,USB-C Charging Cable,Electronics,8.5,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,8.5
+238,44,2024-10-16,processing,588,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,9.5
+239,47,2024-10-17,completed,589,5,1,Webcam HD 1080p,Electronics,55.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,55.0
+239,47,2024-10-17,completed,590,14,1,Kitchen Knife Set,Home & Garden,65.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,65.0
+239,47,2024-10-17,completed,591,19,1,The Pragmatic Programmer,Books,48.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,48.0
+240,49,2024-10-18,shipped,592,8,1,Running Shoes,Clothing,78.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,78.0
+240,49,2024-10-18,shipped,593,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,30.0
+241,51,2024-10-19,completed,594,10,1,Leather Belt,Clothing,30.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,30.0
+241,51,2024-10-19,completed,595,12,1,LED Desk Lamp,Home & Garden,42.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,42.0
+241,51,2024-10-19,completed,596,22,1,Resistance Band Set,Sports,19.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,19.0
+242,53,2024-10-20,completed,597,6,2,Cotton T-Shirt,Clothing,18.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,36.0
+242,53,2024-10-20,completed,598,17,1,Python Data Science Handbook,Books,55.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,55.0
+244,59,2024-10-22,completed,602,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,32.0
+244,59,2024-10-22,completed,603,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,24.0
+245,61,2024-10-23,completed,604,9,1,Wool Scarf,Clothing,25.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,25.0
+245,61,2024-10-23,completed,605,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,96.0
+245,61,2024-10-23,completed,606,20,1,Clean Code,Books,42.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,42.0
+246,63,2024-10-24,processing,607,7,1,Denim Jeans,Clothing,52.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,52.0
+246,63,2024-10-24,processing,608,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,18.0
+247,65,2024-10-25,completed,609,4,1,Mechanical Keyboard,Electronics,89.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,89.0
+247,65,2024-10-25,completed,610,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,22.0
+247,65,2024-10-25,completed,611,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,32.0
+248,67,2024-10-26,completed,612,2,2,USB-C Charging Cable,Electronics,8.5,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,17.0
+248,67,2024-10-26,completed,613,18,1,Designing Data-Intensive Apps,Books,62.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,62.0
+249,3,2024-11-01,completed,614,5,1,Webcam HD 1080p,Electronics,55.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,55.0
+249,3,2024-11-01,completed,615,23,1,Jump Rope,Sports,12.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,12.0
+249,3,2024-11-01,completed,616,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,19.0
+250,6,2024-11-02,shipped,617,8,1,Running Shoes,Clothing,78.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,78.0
+250,6,2024-11-02,shipped,618,16,1,Introduction to Algorithms,Books,85.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,85.0
+251,8,2024-11-03,completed,619,10,2,Leather Belt,Clothing,30.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,60.0
+251,8,2024-11-03,completed,620,21,1,Yoga Mat,Sports,28.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,28.0
+251,8,2024-11-03,completed,621,25,1,Sports Water Bottle,Sports,14.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,14.0
+252,11,2024-11-04,completed,622,6,1,Cotton T-Shirt,Clothing,18.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,18.0
+252,11,2024-11-04,completed,623,14,1,Kitchen Knife Set,Home & Garden,65.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,65.0
+254,17,2024-11-06,completed,627,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,32.0
+254,17,2024-11-06,completed,628,12,1,LED Desk Lamp,Home & Garden,42.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,42.0
+255,20,2024-11-07,processing,629,9,1,Wool Scarf,Clothing,25.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,25.0
+255,20,2024-11-07,processing,630,17,2,Python Data Science Handbook,Books,55.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,110.0
+255,20,2024-11-07,processing,631,22,1,Resistance Band Set,Sports,19.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,19.0
+256,23,2024-11-08,completed,632,7,1,Denim Jeans,Clothing,52.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,52.0
+256,23,2024-11-08,completed,633,24,1,Dumbbell Pair 5kg,Sports,35.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,35.0
+257,26,2024-11-09,completed,634,4,1,Mechanical Keyboard,Electronics,89.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,89.0
+257,26,2024-11-09,completed,635,11,1,Ceramic Plant Pot,Home & Garden,15.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,15.0
+257,26,2024-11-09,completed,636,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,24.0
+258,29,2024-11-10,shipped,637,2,2,USB-C Charging Cable,Electronics,8.5,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,17.0
+258,29,2024-11-10,shipped,638,20,1,Clean Code,Books,42.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,42.0
+259,32,2024-11-11,completed,639,5,1,Webcam HD 1080p,Electronics,55.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,55.0
+259,32,2024-11-11,completed,640,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,48.0
+259,32,2024-11-11,completed,641,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,36.0
+260,34,2024-11-12,completed,642,8,1,Running Shoes,Clothing,78.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,78.0
+260,34,2024-11-12,completed,643,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,32.0
+262,40,2024-11-14,completed,647,6,1,Cotton T-Shirt,Clothing,18.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,18.0
+262,40,2024-11-14,completed,648,18,2,Designing Data-Intensive Apps,Books,62.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,124.0
+263,43,2024-11-15,completed,649,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,45.0
+263,43,2024-11-15,completed,650,16,1,Introduction to Algorithms,Books,85.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,85.0
+263,43,2024-11-15,completed,651,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,9.5
+264,45,2024-11-16,processing,652,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,32.0
+264,45,2024-11-16,processing,653,21,1,Yoga Mat,Sports,28.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,28.0
+265,48,2024-11-17,completed,654,9,2,Wool Scarf,Clothing,25.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,50.0
+265,48,2024-11-17,completed,655,14,1,Kitchen Knife Set,Home & Garden,65.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,65.0
+265,48,2024-11-17,completed,656,25,1,Sports Water Bottle,Sports,14.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,14.0
+266,50,2024-11-18,shipped,657,7,1,Denim Jeans,Clothing,52.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,52.0
+266,50,2024-11-18,shipped,658,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,15.0
+267,52,2024-11-19,completed,659,4,1,Mechanical Keyboard,Electronics,89.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,89.0
+267,52,2024-11-19,completed,660,19,1,The Pragmatic Programmer,Books,48.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,48.0
+267,52,2024-11-19,completed,661,12,2,LED Desk Lamp,Home & Garden,42.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,84.0
+268,55,2024-11-20,completed,662,2,1,USB-C Charging Cable,Electronics,8.5,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,8.5
+268,55,2024-11-20,completed,663,22,1,Resistance Band Set,Sports,19.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,19.0
+270,60,2024-11-22,completed,667,8,1,Running Shoes,Clothing,78.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,78.0
+270,60,2024-11-22,completed,668,20,1,Clean Code,Books,42.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,42.0
+271,62,2024-11-23,completed,669,10,1,Leather Belt,Clothing,30.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,30.0
+271,62,2024-11-23,completed,670,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,48.0
+271,62,2024-11-23,completed,671,24,1,Dumbbell Pair 5kg,Sports,35.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,35.0
+272,64,2024-11-24,processing,672,6,2,Cotton T-Shirt,Clothing,18.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,36.0
+272,64,2024-11-24,processing,673,11,1,Ceramic Plant Pot,Home & Garden,15.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,15.0
+273,66,2024-11-25,completed,674,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,45.0
+273,66,2024-11-25,completed,675,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,18.0
+273,66,2024-11-25,completed,676,28,2,Medjool Dates 1kg,Food & Beverage,32.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,64.0
+274,68,2024-11-26,completed,678,18,1,Designing Data-Intensive Apps,Books,62.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,62.0
+275,2,2024-12-01,completed,679,9,1,Wool Scarf,Clothing,25.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,25.0
+275,2,2024-12-01,completed,680,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,22.0
+275,2,2024-12-01,completed,681,23,1,Jump Rope,Sports,12.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,12.0
+276,5,2024-12-02,shipped,682,7,1,Denim Jeans,Clothing,52.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,52.0
+276,5,2024-12-02,shipped,683,16,2,Introduction to Algorithms,Books,85.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,170.0
+277,9,2024-12-03,completed,684,4,1,Mechanical Keyboard,Electronics,89.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,89.0
+277,9,2024-12-03,completed,685,21,1,Yoga Mat,Sports,28.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,28.0
+277,9,2024-12-03,completed,686,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,9.5
+278,12,2024-12-04,completed,687,2,1,USB-C Charging Cable,Electronics,8.5,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,8.5
+278,12,2024-12-04,completed,688,25,1,Sports Water Bottle,Sports,14.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,14.0
+280,18,2024-12-06,completed,692,8,1,Running Shoes,Clothing,78.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,78.0
+280,18,2024-12-06,completed,693,19,1,The Pragmatic Programmer,Books,48.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,48.0
+281,21,2024-12-07,processing,694,10,1,Leather Belt,Clothing,30.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,30.0
+281,21,2024-12-07,processing,695,12,1,LED Desk Lamp,Home & Garden,42.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,42.0
+281,21,2024-12-07,processing,696,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,48.0
+282,24,2024-12-08,completed,697,6,1,Cotton T-Shirt,Clothing,18.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,18.0
+282,24,2024-12-08,completed,698,22,1,Resistance Band Set,Sports,19.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,19.0
+283,27,2024-12-09,completed,699,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,45.0
+283,27,2024-12-09,completed,700,17,2,Python Data Science Handbook,Books,55.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,110.0
+283,27,2024-12-09,completed,701,20,1,Clean Code,Books,42.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,42.0
+284,30,2024-12-10,shipped,702,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,32.0
+284,30,2024-12-10,shipped,703,24,1,Dumbbell Pair 5kg,Sports,35.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,35.0
+285,33,2024-12-11,completed,704,9,1,Wool Scarf,Clothing,25.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,25.0
+285,33,2024-12-11,completed,705,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,48.0
+285,33,2024-12-11,completed,706,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,32.0
+286,36,2024-12-12,completed,707,7,2,Denim Jeans,Clothing,52.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,104.0
+286,36,2024-12-12,completed,708,11,1,Ceramic Plant Pot,Home & Garden,15.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,15.0
+288,41,2024-12-14,completed,712,2,1,USB-C Charging Cable,Electronics,8.5,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,8.5
+288,41,2024-12-14,completed,713,18,1,Designing Data-Intensive Apps,Books,62.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,62.0
+289,44,2024-12-15,completed,714,5,1,Webcam HD 1080p,Electronics,55.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,55.0
+289,44,2024-12-15,completed,715,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,22.0
+289,44,2024-12-15,completed,716,25,1,Sports Water Bottle,Sports,14.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,14.0
+290,46,2024-12-16,processing,717,8,1,Running Shoes,Clothing,78.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,78.0
+290,46,2024-12-16,processing,718,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,19.0
+291,49,2024-12-17,completed,719,10,1,Leather Belt,Clothing,30.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,30.0
+291,49,2024-12-17,completed,720,16,1,Introduction to Algorithms,Books,85.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,85.0
+291,49,2024-12-17,completed,721,21,1,Yoga Mat,Sports,28.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,28.0
+292,51,2024-12-18,shipped,722,6,1,Cotton T-Shirt,Clothing,18.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,18.0
+292,51,2024-12-18,shipped,723,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,15.0
+293,54,2024-12-19,completed,724,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,90.0
+293,54,2024-12-19,completed,725,14,1,Kitchen Knife Set,Home & Garden,65.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,65.0
+293,54,2024-12-19,completed,726,19,1,The Pragmatic Programmer,Books,48.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,48.0
+294,56,2024-12-20,completed,727,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Siham Majdalawi,siham.majdalawi@email.com,Unknown,2024-05-12,32.0
+294,56,2024-12-20,completed,728,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Siham Majdalawi,siham.majdalawi@email.com,Unknown,2024-05-12,24.0
+296,61,2024-12-22,completed,732,7,1,Denim Jeans,Clothing,52.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,52.0
+296,61,2024-12-22,completed,733,20,1,Clean Code,Books,42.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,42.0
+297,63,2024-12-23,completed,734,4,1,Mechanical Keyboard,Electronics,89.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,89.0
+297,63,2024-12-23,completed,735,17,1,Python Data Science Handbook,Books,55.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,55.0
+297,63,2024-12-23,completed,736,24,2,Dumbbell Pair 5kg,Sports,35.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,70.0
+298,65,2024-12-24,processing,737,2,1,USB-C Charging Cable,Electronics,8.5,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,8.5
+298,65,2024-12-24,processing,738,25,1,Sports Water Bottle,Sports,14.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,14.0
+299,67,2024-12-25,completed,739,5,1,Webcam HD 1080p,Electronics,55.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,55.0
+299,67,2024-12-25,completed,740,11,1,Ceramic Plant Pot,Home & Garden,15.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,15.0
+299,67,2024-12-25,completed,741,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,32.0
+300,69,2024-12-26,completed,742,8,2,Running Shoes,Clothing,78.0,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,156.0
+300,69,2024-12-26,completed,743,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,48.0
+301,1,2025-01-02,completed,744,10,1,Leather Belt,Clothing,30.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,30.0
+301,1,2025-01-02,completed,745,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,18.0
+301,1,2025-01-02,completed,746,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,30.0
+302,4,2025-01-03,shipped,747,6,1,Cotton T-Shirt,Clothing,18.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,18.0
+302,4,2025-01-03,shipped,748,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Layla Abdallah,layla.abdallah@email.com,Amman,2023-02-10,22.0
+303,7,2025-01-04,completed,749,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,45.0
+303,7,2025-01-04,completed,750,18,2,Designing Data-Intensive Apps,Books,62.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,124.0
+303,7,2025-01-04,completed,751,23,1,Jump Rope,Sports,12.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,12.0
+304,10,2025-01-05,completed,752,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,32.0
+304,10,2025-01-05,completed,753,16,1,Introduction to Algorithms,Books,85.0,Hana Suleiman,hana.suleiman@email.com,Irbid,2023-04-10,85.0
+306,16,2025-01-07,completed,757,7,2,Denim Jeans,Clothing,52.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,104.0
+306,16,2025-01-07,completed,758,14,1,Kitchen Knife Set,Home & Garden,65.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,65.0
+307,19,2025-01-08,processing,759,4,1,Mechanical Keyboard,Electronics,89.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,89.0
+307,19,2025-01-08,processing,760,19,1,The Pragmatic Programmer,Books,48.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,48.0
+307,19,2025-01-08,processing,761,25,2,Sports Water Bottle,Sports,14.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,28.0
+308,22,2025-01-09,completed,762,2,1,USB-C Charging Cable,Electronics,8.5,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,8.5
+308,22,2025-01-09,completed,763,12,1,LED Desk Lamp,Home & Garden,42.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,42.0
+309,25,2025-01-10,completed,764,5,1,Webcam HD 1080p,Electronics,55.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,55.0
+309,25,2025-01-10,completed,765,22,1,Resistance Band Set,Sports,19.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,19.0
+309,25,2025-01-10,completed,766,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,24.0
+310,28,2025-01-11,shipped,767,8,1,Running Shoes,Clothing,78.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,78.0
+310,28,2025-01-11,shipped,768,20,2,Clean Code,Books,42.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,84.0
+311,31,2025-01-12,completed,769,10,1,Leather Belt,Clothing,30.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,30.0
+311,31,2025-01-12,completed,770,17,1,Python Data Science Handbook,Books,55.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,55.0
+311,31,2025-01-12,completed,771,24,1,Dumbbell Pair 5kg,Sports,35.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,35.0
+312,34,2025-01-13,completed,772,6,1,Cotton T-Shirt,Clothing,18.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,18.0
+312,34,2025-01-13,completed,773,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,32.0
+314,39,2025-01-15,completed,777,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,32.0
+314,39,2025-01-15,completed,778,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,48.0
+315,42,2025-01-16,completed,779,9,1,Wool Scarf,Clothing,25.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,25.0
+315,42,2025-01-16,completed,780,23,2,Jump Rope,Sports,12.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,24.0
+315,42,2025-01-16,completed,781,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,18.0
+316,45,2025-01-17,processing,782,7,1,Denim Jeans,Clothing,52.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,52.0
+316,45,2025-01-17,processing,783,18,1,Designing Data-Intensive Apps,Books,62.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,62.0
+317,47,2025-01-18,completed,784,4,1,Mechanical Keyboard,Electronics,89.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,89.0
+317,47,2025-01-18,completed,785,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,22.0
+317,47,2025-01-18,completed,786,21,1,Yoga Mat,Sports,28.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,28.0
+318,50,2025-01-19,shipped,787,2,2,USB-C Charging Cable,Electronics,8.5,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,17.0
+318,50,2025-01-19,shipped,788,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Eman Shdeifat,eman.shdeifat@email.com,Amman,2024-03-25,9.5
+319,53,2025-01-20,completed,789,5,1,Webcam HD 1080p,Electronics,55.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,55.0
+319,53,2025-01-20,completed,790,16,1,Introduction to Algorithms,Books,85.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,85.0
+319,53,2025-01-20,completed,791,25,2,Sports Water Bottle,Sports,14.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,28.0
+320,55,2025-01-21,completed,792,8,1,Running Shoes,Clothing,78.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,78.0
+320,55,2025-01-21,completed,793,14,1,Kitchen Knife Set,Home & Garden,65.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,65.0
+322,60,2025-01-23,completed,798,12,1,LED Desk Lamp,Home & Garden,42.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,42.0
+323,62,2025-01-24,completed,799,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,45.0
+323,62,2025-01-24,completed,800,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,48.0
+323,62,2025-01-24,completed,801,20,1,Clean Code,Books,42.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,42.0
+324,64,2025-01-25,processing,802,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,32.0
+324,64,2025-01-25,processing,803,24,1,Dumbbell Pair 5kg,Sports,35.0,Kholoud Bani-Ata,kholoud.baniata@email.com,Aqaba,2024-07-18,35.0
+325,66,2025-01-26,completed,804,9,2,Wool Scarf,Clothing,25.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,50.0
+325,66,2025-01-26,completed,805,17,1,Python Data Science Handbook,Books,55.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,55.0
+325,66,2025-01-26,completed,806,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Ahlam Bataineh,ahlam.bataineh@email.com,Salt,2024-08-02,32.0
+326,70,2025-01-27,completed,807,7,1,Denim Jeans,Clothing,52.0,Haneen Khreisat,haneen.khreisat@email.com,Irbid,2024-09-02,52.0
+326,70,2025-01-27,completed,808,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Haneen Khreisat,haneen.khreisat@email.com,Irbid,2024-09-02,15.0
+327,3,2025-02-01,completed,809,4,1,Mechanical Keyboard,Electronics,89.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,89.0
+327,3,2025-02-01,completed,810,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,48.0
+327,3,2025-02-01,completed,811,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,18.0
+328,6,2025-02-02,shipped,812,2,1,USB-C Charging Cable,Electronics,8.5,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,8.5
+328,6,2025-02-02,shipped,813,11,2,Ceramic Plant Pot,Home & Garden,15.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,30.0
+329,8,2025-02-03,completed,814,5,1,Webcam HD 1080p,Electronics,55.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,55.0
+329,8,2025-02-03,completed,815,23,1,Jump Rope,Sports,12.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,12.0
+329,8,2025-02-03,completed,816,18,1,Designing Data-Intensive Apps,Books,62.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,62.0
+330,11,2025-02-04,completed,817,8,1,Running Shoes,Clothing,78.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,78.0
+330,11,2025-02-04,completed,818,21,1,Yoga Mat,Sports,28.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,28.0
+332,17,2025-02-06,completed,822,6,1,Cotton T-Shirt,Clothing,18.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,18.0
+332,17,2025-02-06,completed,823,16,1,Introduction to Algorithms,Books,85.0,Waleed Shraideh,waleed.shraideh@email.com,Salt,2023-06-10,85.0
+333,20,2025-02-07,processing,824,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,45.0
+333,20,2025-02-07,processing,825,19,1,The Pragmatic Programmer,Books,48.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,48.0
+333,20,2025-02-07,processing,826,25,2,Sports Water Bottle,Sports,14.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,28.0
+334,23,2025-02-08,completed,827,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,32.0
+334,23,2025-02-08,completed,828,22,1,Resistance Band Set,Sports,19.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,19.0
+335,26,2025-02-09,completed,829,9,1,Wool Scarf,Clothing,25.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,25.0
+335,26,2025-02-09,completed,830,14,2,Kitchen Knife Set,Home & Garden,65.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,130.0
+335,26,2025-02-09,completed,831,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Asma Qudah,asma.qudah@email.com,Amman,2023-08-22,24.0
+336,29,2025-02-10,shipped,832,7,1,Denim Jeans,Clothing,52.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,52.0
+336,29,2025-02-10,shipped,833,20,1,Clean Code,Books,42.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,42.0
+337,32,2025-02-11,completed,834,4,1,Mechanical Keyboard,Electronics,89.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,89.0
+337,32,2025-02-11,completed,835,12,1,LED Desk Lamp,Home & Garden,42.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,42.0
+337,32,2025-02-11,completed,836,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,15.0
+338,35,2025-02-12,completed,837,2,2,USB-C Charging Cable,Electronics,8.5,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,17.0
+338,35,2025-02-12,completed,838,17,1,Python Data Science Handbook,Books,55.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,55.0
+340,41,2025-02-14,completed,842,8,1,Running Shoes,Clothing,78.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,78.0
+340,41,2025-02-14,completed,843,11,1,Ceramic Plant Pot,Home & Garden,15.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,15.0
+341,43,2025-02-15,completed,844,10,1,Leather Belt,Clothing,30.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,30.0
+341,43,2025-02-15,completed,845,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,48.0
+341,43,2025-02-15,completed,846,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,18.0
+342,46,2025-02-16,processing,847,6,1,Cotton T-Shirt,Clothing,18.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,18.0
+342,46,2025-02-16,processing,848,23,2,Jump Rope,Sports,12.0,Shireen Khasawneh,shireen.khasawneh@email.com,Amman,2024-02-18,24.0
+343,49,2025-02-17,completed,849,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,45.0
+343,49,2025-02-17,completed,850,18,1,Designing Data-Intensive Apps,Books,62.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,62.0
+343,49,2025-02-17,completed,851,21,1,Yoga Mat,Sports,28.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,28.0
+344,51,2025-02-18,shipped,852,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,64.0
+344,51,2025-02-18,shipped,853,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,9.5
+345,54,2025-02-19,completed,854,9,1,Wool Scarf,Clothing,25.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,25.0
+345,54,2025-02-19,completed,855,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,22.0
+345,54,2025-02-19,completed,856,16,1,Introduction to Algorithms,Books,85.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,85.0
+346,57,2025-02-20,completed,857,7,1,Denim Jeans,Clothing,52.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,52.0
+346,57,2025-02-20,completed,858,25,1,Sports Water Bottle,Sports,14.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,14.0
+348,61,2025-02-22,completed,862,2,1,USB-C Charging Cable,Electronics,8.5,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,8.5
+348,61,2025-02-22,completed,863,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,15.0
+349,63,2025-02-23,completed,864,5,1,Webcam HD 1080p,Electronics,55.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,55.0
+349,63,2025-02-23,completed,865,14,1,Kitchen Knife Set,Home & Garden,65.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,65.0
+349,63,2025-02-23,completed,866,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,24.0
+350,65,2025-02-24,processing,867,8,2,Running Shoes,Clothing,78.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,156.0
+350,65,2025-02-24,processing,868,20,1,Clean Code,Books,42.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,42.0
+351,68,2025-02-25,completed,869,10,1,Leather Belt,Clothing,30.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,30.0
+351,68,2025-02-25,completed,870,12,1,LED Desk Lamp,Home & Garden,42.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,42.0
+351,68,2025-02-25,completed,871,28,2,Medjool Dates 1kg,Food & Beverage,32.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,64.0
+352,71,2025-02-26,completed,872,6,1,Cotton T-Shirt,Clothing,18.0,Saleem Tahat,saleem.tahat@email.com,Zarqa,2024-09-10,18.0
+352,71,2025-02-26,completed,873,17,1,Python Data Science Handbook,Books,55.0,Saleem Tahat,saleem.tahat@email.com,Zarqa,2024-09-10,55.0
+353,2,2025-03-01,completed,874,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,45.0
+353,2,2025-03-01,completed,875,24,2,Dumbbell Pair 5kg,Sports,35.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,70.0
+353,2,2025-03-01,completed,876,23,1,Jump Rope,Sports,12.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,12.0
+354,5,2025-03-02,shipped,877,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,32.0
+354,5,2025-03-02,shipped,878,11,1,Ceramic Plant Pot,Home & Garden,15.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,15.0
+355,9,2025-03-03,completed,879,9,1,Wool Scarf,Clothing,25.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,25.0
+355,9,2025-03-03,completed,880,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,48.0
+355,9,2025-03-03,completed,881,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,18.0
+356,12,2025-03-04,completed,882,7,1,Denim Jeans,Clothing,52.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,52.0
+356,12,2025-03-04,completed,883,22,2,Resistance Band Set,Sports,19.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,38.0
+358,18,2025-03-06,completed,887,2,1,USB-C Charging Cable,Electronics,8.5,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,8.5
+358,18,2025-03-06,completed,888,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,22.0
+359,21,2025-03-07,processing,889,5,2,Webcam HD 1080p,Electronics,55.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,110.0
+359,21,2025-03-07,processing,890,21,1,Yoga Mat,Sports,28.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,28.0
+359,21,2025-03-07,processing,891,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,9.5
+360,24,2025-03-08,completed,892,8,1,Running Shoes,Clothing,78.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,78.0
+360,24,2025-03-08,completed,893,16,1,Introduction to Algorithms,Books,85.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,85.0
+361,27,2025-03-09,completed,894,10,1,Leather Belt,Clothing,30.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,30.0
+361,27,2025-03-09,completed,895,19,1,The Pragmatic Programmer,Books,48.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,48.0
+361,27,2025-03-09,completed,896,25,2,Sports Water Bottle,Sports,14.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,28.0
+362,30,2025-03-10,shipped,897,6,1,Cotton T-Shirt,Clothing,18.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,18.0
+362,30,2025-03-10,shipped,898,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Nisreen Bakri,nisreen.bakri@email.com,Zarqa,2023-09-25,24.0
+363,33,2025-03-11,completed,899,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,45.0
+363,33,2025-03-11,completed,900,14,2,Kitchen Knife Set,Home & Garden,65.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,130.0
+363,33,2025-03-11,completed,901,20,1,Clean Code,Books,42.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,42.0
+364,36,2025-03-12,completed,902,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,32.0
+364,36,2025-03-12,completed,903,23,1,Jump Rope,Sports,12.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,12.0
+365,39,2025-03-13,completed,904,9,1,Wool Scarf,Clothing,25.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,25.0
+365,39,2025-03-13,completed,905,17,1,Python Data Science Handbook,Books,55.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,55.0
+365,39,2025-03-13,completed,906,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,32.0
+366,42,2025-03-14,completed,907,7,2,Denim Jeans,Clothing,52.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,104.0
+366,42,2025-03-14,completed,908,12,1,LED Desk Lamp,Home & Garden,42.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,42.0
+367,45,2025-03-15,completed,909,4,1,Mechanical Keyboard,Electronics,89.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,89.0
+367,45,2025-03-15,completed,910,24,1,Dumbbell Pair 5kg,Sports,35.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,35.0
+367,45,2025-03-15,completed,911,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,36.0
+368,48,2025-03-15,shipped,912,2,1,USB-C Charging Cable,Electronics,8.5,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,8.5
+368,48,2025-03-15,shipped,913,11,1,Ceramic Plant Pot,Home & Garden,15.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,15.0
+369,72,2025-03-01,completed,914,5,1,Webcam HD 1080p,Electronics,55.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,55.0
+369,72,2025-03-01,completed,915,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,48.0
+369,72,2025-03-01,completed,916,22,1,Resistance Band Set,Sports,19.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,19.0
+370,73,2025-03-02,completed,917,8,1,Running Shoes,Clothing,78.0,Imad Dmaiseh,imad.dmaiseh@email.com,Aqaba,2024-09-25,78.0
+370,73,2025-03-02,completed,918,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Imad Dmaiseh,imad.dmaiseh@email.com,Aqaba,2024-09-25,30.0
+371,74,2025-03-03,shipped,919,10,1,Leather Belt,Clothing,30.0,Zeinab Shnikat,zeinab.shnikat@email.com,Amman,2024-10-03,30.0
+371,74,2025-03-03,shipped,920,18,1,Designing Data-Intensive Apps,Books,62.0,Zeinab Shnikat,zeinab.shnikat@email.com,Amman,2024-10-03,62.0
+371,74,2025-03-03,shipped,921,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Zeinab Shnikat,zeinab.shnikat@email.com,Amman,2024-10-03,9.5
+372,75,2025-03-04,completed,922,6,1,Cotton T-Shirt,Clothing,18.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,18.0
+372,75,2025-03-04,completed,923,13,2,Stainless Steel Water Bottle,Home & Garden,22.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,44.0
+374,77,2025-03-06,completed,927,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Hamzeh Al-Btoush,hamzeh.btoush@email.com,Irbid,2024-10-28,64.0
+374,77,2025-03-06,completed,928,25,1,Sports Water Bottle,Sports,14.0,Hamzeh Al-Btoush,hamzeh.btoush@email.com,Irbid,2024-10-28,14.0
+375,78,2025-03-07,processing,929,9,1,Wool Scarf,Clothing,25.0,Mayada Tal,mayada.tal@email.com,Amman,2024-11-05,25.0
+375,78,2025-03-07,processing,930,19,1,The Pragmatic Programmer,Books,48.0,Mayada Tal,mayada.tal@email.com,Amman,2024-11-05,48.0
+375,78,2025-03-07,processing,931,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Mayada Tal,mayada.tal@email.com,Amman,2024-11-05,24.0
+376,79,2025-03-08,completed,932,7,1,Denim Jeans,Clothing,52.0,Shaker Hijazeen,shaker.hijazeen@email.com,Madaba,2024-11-14,52.0
+376,79,2025-03-08,completed,933,20,1,Clean Code,Books,42.0,Shaker Hijazeen,shaker.hijazeen@email.com,Madaba,2024-11-14,42.0
+377,80,2025-03-09,completed,934,4,1,Mechanical Keyboard,Electronics,89.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,89.0
+377,80,2025-03-09,completed,935,14,2,Kitchen Knife Set,Home & Garden,65.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,130.0
+377,80,2025-03-09,completed,936,23,1,Jump Rope,Sports,12.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,12.0
+378,81,2025-03-10,shipped,937,2,1,USB-C Charging Cable,Electronics,8.5,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,8.5
+378,81,2025-03-10,shipped,938,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,32.0
+379,82,2025-03-11,completed,939,5,1,Webcam HD 1080p,Electronics,55.0,Tamam Khreisha,tamam.khreisha@email.com,Unknown,2024-12-10,55.0
+379,82,2025-03-11,completed,940,12,1,LED Desk Lamp,Home & Garden,42.0,Tamam Khreisha,tamam.khreisha@email.com,Unknown,2024-12-10,42.0
+379,82,2025-03-11,completed,941,17,2,Python Data Science Handbook,Books,55.0,Tamam Khreisha,tamam.khreisha@email.com,Unknown,2024-12-10,110.0
+380,83,2025-03-12,completed,942,8,1,Running Shoes,Clothing,78.0,Ismail Hmoud,ismail.hmoud@email.com,Aqaba,2024-12-18,78.0
+380,83,2025-03-12,completed,943,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Ismail Hmoud,ismail.hmoud@email.com,Aqaba,2024-12-18,18.0
+381,84,2025-03-13,completed,944,10,1,Leather Belt,Clothing,30.0,Sabah Nsairat,sabah.nsairat@email.com,Amman,2025-01-05,30.0
+381,84,2025-03-13,completed,945,22,1,Resistance Band Set,Sports,19.0,Sabah Nsairat,sabah.nsairat@email.com,Amman,2025-01-05,19.0
+381,84,2025-03-13,completed,946,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Sabah Nsairat,sabah.nsairat@email.com,Amman,2025-01-05,15.0
+382,85,2025-03-14,processing,947,6,2,Cotton T-Shirt,Clothing,18.0,Qais Al-Fayez,qais.fayez@email.com,Irbid,2025-01-14,36.0
+382,85,2025-03-14,processing,948,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Qais Al-Fayez,qais.fayez@email.com,Irbid,2025-01-14,48.0
+383,86,2025-03-15,completed,949,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Mais Qawasmeh,mais.qawasmeh@email.com,Salt,2025-01-22,45.0
+383,86,2025-03-15,completed,950,11,1,Ceramic Plant Pot,Home & Garden,15.0,Mais Qawasmeh,mais.qawasmeh@email.com,Salt,2025-01-22,15.0
+383,86,2025-03-15,completed,951,24,1,Dumbbell Pair 5kg,Sports,35.0,Mais Qawasmeh,mais.qawasmeh@email.com,Salt,2025-01-22,35.0
+384,87,2025-03-15,completed,952,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Baraa Otoum,baraa.otoum@email.com,Amman,2025-01-28,32.0
+384,87,2025-03-15,completed,953,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Baraa Otoum,baraa.otoum@email.com,Amman,2025-01-28,19.0
+385,88,2025-03-15,shipped,954,9,1,Wool Scarf,Clothing,25.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,25.0
+385,88,2025-03-15,shipped,955,18,1,Designing Data-Intensive Apps,Books,62.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,62.0
+385,88,2025-03-15,shipped,956,21,1,Yoga Mat,Sports,28.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,28.0
+386,89,2025-03-14,completed,957,7,1,Denim Jeans,Clothing,52.0,Haitham Krishan,haitham.krishan@email.com,Zarqa,2025-02-14,52.0
+386,89,2025-03-14,completed,958,16,1,Introduction to Algorithms,Books,85.0,Haitham Krishan,haitham.krishan@email.com,Zarqa,2025-02-14,85.0
+387,90,2025-03-13,completed,959,4,1,Mechanical Keyboard,Electronics,89.0,Nawal Fayyad,nawal.fayyad@email.com,Amman,2025-02-20,89.0
+387,90,2025-03-13,completed,960,13,2,Stainless Steel Water Bottle,Home & Garden,22.0,Nawal Fayyad,nawal.fayyad@email.com,Amman,2025-02-20,44.0
+387,90,2025-03-13,completed,961,25,1,Sports Water Bottle,Sports,14.0,Nawal Fayyad,nawal.fayyad@email.com,Amman,2025-02-20,14.0
+389,92,2025-03-11,completed,964,5,1,Webcam HD 1080p,Electronics,55.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,55.0
+389,92,2025-03-11,completed,965,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,24.0
+389,92,2025-03-11,completed,966,19,1,The Pragmatic Programmer,Books,48.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,48.0
+390,93,2025-03-10,completed,967,8,1,Running Shoes,Clothing,78.0,Saif Majeed,saif.majeed@email.com,Amman,2025-03-10,78.0
+390,93,2025-03-10,completed,968,23,2,Jump Rope,Sports,12.0,Saif Majeed,saif.majeed@email.com,Amman,2025-03-10,24.0
+391,94,2025-03-09,processing,969,10,1,Leather Belt,Clothing,30.0,Arwa Hajjaj,arwa.hajjaj@email.com,Aqaba,2025-03-12,30.0
+391,94,2025-03-09,processing,970,14,1,Kitchen Knife Set,Home & Garden,65.0,Arwa Hajjaj,arwa.hajjaj@email.com,Aqaba,2025-03-12,65.0
+391,94,2025-03-09,processing,971,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Arwa Hajjaj,arwa.hajjaj@email.com,Aqaba,2025-03-12,32.0
+392,95,2025-03-08,completed,972,6,1,Cotton T-Shirt,Clothing,18.0,Nasser Al-Dhoon,nasser.dhoon@email.com,Amman,2025-03-14,18.0
+392,95,2025-03-08,completed,973,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Nasser Al-Dhoon,nasser.dhoon@email.com,Amman,2025-03-14,15.0
+393,96,2025-03-07,completed,974,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,90.0
+393,96,2025-03-07,completed,975,17,1,Python Data Science Handbook,Books,55.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,55.0
+393,96,2025-03-07,completed,976,12,1,LED Desk Lamp,Home & Garden,42.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,42.0
+394,97,2025-03-06,shipped,977,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Samer Jaber,samer.jaber@email.com,Salt,2025-03-15,32.0
+394,97,2025-03-06,shipped,978,22,1,Resistance Band Set,Sports,19.0,Samer Jaber,samer.jaber@email.com,Salt,2025-03-15,19.0
+395,98,2025-03-05,completed,979,9,1,Wool Scarf,Clothing,25.0,Laith Al-Khalidi,laith.khalidi@email.com,Amman,2025-03-08,25.0
+395,98,2025-03-05,completed,980,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Laith Al-Khalidi,laith.khalidi@email.com,Amman,2025-03-08,18.0
+395,98,2025-03-05,completed,981,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Laith Al-Khalidi,laith.khalidi@email.com,Amman,2025-03-08,96.0
+396,99,2025-03-04,completed,982,7,1,Denim Jeans,Clothing,52.0,Farah Hamaydeh,farah.hamaydeh@email.com,Irbid,2025-03-10,52.0
+396,99,2025-03-04,completed,983,11,1,Ceramic Plant Pot,Home & Garden,15.0,Farah Hamaydeh,farah.hamaydeh@email.com,Irbid,2025-03-10,15.0
+398,1,2025-04-01,completed,987,2,2,USB-C Charging Cable,Electronics,8.5,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,17.0
+398,1,2025-04-01,completed,988,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Ahmad Al-Masri,ahmad.masri@email.com,Amman,2023-01-15,9.5
+399,3,2025-04-02,shipped,989,5,1,Webcam HD 1080p,Electronics,55.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,55.0
+399,3,2025-04-02,shipped,990,18,1,Designing Data-Intensive Apps,Books,62.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,62.0
+399,3,2025-04-02,shipped,991,16,1,Introduction to Algorithms,Books,85.0,Omar Khalifeh,omar.khalifeh@email.com,Zarqa,2023-02-03,85.0
+400,5,2025-04-03,completed,992,8,1,Running Shoes,Clothing,78.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,78.0
+400,5,2025-04-03,completed,993,25,1,Sports Water Bottle,Sports,14.0,Khaled Nasser,khaled.nasser@email.com,Unknown,2023-02-18,14.0
+401,8,2025-04-04,completed,994,10,1,Leather Belt,Clothing,30.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,30.0
+401,8,2025-04-04,completed,995,20,2,Clean Code,Books,42.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,84.0
+401,8,2025-04-04,completed,996,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Noor Al-Jabari,noor.jabari@email.com,Madaba,2023-03-20,24.0
+403,12,2025-04-06,completed,999,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,45.0
+403,12,2025-04-06,completed,1000,23,1,Jump Rope,Sports,12.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,12.0
+403,12,2025-04-06,completed,1001,30,2,Mansaf Spice Kit,Food & Beverage,15.0,Dina Qasem,dina.qasem@email.com,Unknown,2023-04-25,30.0
+404,15,2025-04-07,processing,1002,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Fadi Al-Zoubi,fadi.zoubi@email.com,Amman,2023-05-22,32.0
+404,15,2025-04-07,processing,1003,19,1,The Pragmatic Programmer,Books,48.0,Fadi Al-Zoubi,fadi.zoubi@email.com,Amman,2023-05-22,48.0
+405,18,2025-04-08,completed,1004,9,1,Wool Scarf,Clothing,25.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,25.0
+405,18,2025-04-08,completed,1005,12,1,LED Desk Lamp,Home & Garden,42.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,42.0
+405,18,2025-04-08,completed,1006,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Lina Al-Omari,lina.omari@email.com,Unknown,2023-06-18,18.0
+406,20,2025-04-09,completed,1007,7,2,Denim Jeans,Clothing,52.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,104.0
+406,20,2025-04-09,completed,1008,17,1,Python Data Science Handbook,Books,55.0,Samar Ababneh,samar.ababneh@email.com,Amman,2023-07-03,55.0
+407,22,2025-04-10,shipped,1009,4,1,Mechanical Keyboard,Electronics,89.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,89.0
+407,22,2025-04-10,shipped,1010,22,1,Resistance Band Set,Sports,19.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,19.0
+407,22,2025-04-10,shipped,1011,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Yasmin Al-Sharif,yasmin.sharif@email.com,Amman,2023-07-20,32.0
+408,25,2025-04-11,completed,1012,2,1,USB-C Charging Cable,Electronics,8.5,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,8.5
+408,25,2025-04-11,completed,1013,11,1,Ceramic Plant Pot,Home & Garden,15.0,Nidal Fraihat,nidal.fraihat@email.com,Aqaba,2023-08-14,15.0
+409,28,2025-04-12,completed,1014,5,1,Webcam HD 1080p,Electronics,55.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,55.0
+409,28,2025-04-12,completed,1015,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,96.0
+409,28,2025-04-12,completed,1016,25,1,Sports Water Bottle,Sports,14.0,Jumana Tarawneh,jumana.tarawneh@email.com,Madaba,2023-09-10,14.0
+411,33,2025-04-14,completed,1019,10,1,Leather Belt,Clothing,30.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,30.0
+411,33,2025-04-14,completed,1020,18,1,Designing Data-Intensive Apps,Books,62.0,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,62.0
+411,33,2025-04-14,completed,1021,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Mahmoud Al-Azza,mahmoud.azza@email.com,Amman,2023-10-20,19.0
+412,35,2025-04-15,processing,1022,6,1,Cotton T-Shirt,Clothing,18.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,18.0
+412,35,2025-04-15,processing,1023,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Raed Habashneh,raed.habashneh@email.com,Salt,2023-11-05,22.0
+413,38,2025-04-16,completed,1024,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,45.0
+413,38,2025-04-16,completed,1025,16,2,Introduction to Algorithms,Books,85.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,170.0
+413,38,2025-04-16,completed,1026,24,1,Dumbbell Pair 5kg,Sports,35.0,Sawsan Majali,sawsan.majali@email.com,Madaba,2023-12-01,35.0
+414,40,2025-04-17,completed,1027,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,32.0
+414,40,2025-04-17,completed,1028,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Huda Al-Karaki,huda.karaki@email.com,Irbid,2023-12-18,15.0
+415,42,2025-04-18,shipped,1029,9,1,Wool Scarf,Clothing,25.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,25.0
+415,42,2025-04-18,shipped,1030,20,1,Clean Code,Books,42.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,42.0
+415,42,2025-04-18,shipped,1031,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Rula Shobaki,rula.shobaki@email.com,Amman,2024-01-14,24.0
+416,45,2025-04-19,completed,1032,7,1,Denim Jeans,Clothing,52.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,52.0
+416,45,2025-04-19,completed,1033,22,2,Resistance Band Set,Sports,19.0,Wael Bani-Hani,wael.banihani@email.com,Salt,2024-02-10,38.0
+417,48,2025-04-20,completed,1034,4,1,Mechanical Keyboard,Electronics,89.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,89.0
+417,48,2025-04-20,completed,1035,14,1,Kitchen Knife Set,Home & Garden,65.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,65.0
+417,48,2025-04-20,completed,1036,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Lubna Al-Hawari,lubna.hawari@email.com,Madaba,2024-03-10,18.0
+419,52,2025-04-22,completed,1039,5,2,Webcam HD 1080p,Electronics,55.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,110.0
+419,52,2025-04-22,completed,1040,19,1,The Pragmatic Programmer,Books,48.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,48.0
+419,52,2025-04-22,completed,1041,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Dalal Abu-Rumman,dalal.aburumman@email.com,Amman,2024-04-10,32.0
+420,55,2025-04-23,completed,1042,8,1,Running Shoes,Clothing,78.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,78.0
+420,55,2025-04-23,completed,1043,12,1,LED Desk Lamp,Home & Garden,42.0,Amjad Halasa,amjad.halasa@email.com,Amman,2024-05-03,42.0
+421,58,2025-04-24,processing,1044,10,1,Leather Belt,Clothing,30.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,30.0
+421,58,2025-04-24,processing,1045,17,1,Python Data Science Handbook,Books,55.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,55.0
+421,58,2025-04-24,processing,1046,25,1,Sports Water Bottle,Sports,14.0,Iman Al-Masalmeh,iman.masalmeh@email.com,Madaba,2024-05-28,14.0
+422,60,2025-04-25,completed,1047,6,1,Cotton T-Shirt,Clothing,18.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,18.0
+422,60,2025-04-25,completed,1048,15,2,Cotton Bed Sheet Set,Home & Garden,48.0,Tahani Toubasi,tahani.toubasi@email.com,Zarqa,2024-06-14,96.0
+423,62,2025-04-26,completed,1049,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,45.0
+423,62,2025-04-26,completed,1050,11,1,Ceramic Plant Pot,Home & Garden,15.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,15.0
+423,62,2025-04-26,completed,1051,21,1,Yoga Mat,Sports,28.0,Wafa Al-Harahsheh,wafa.harahsheh@email.com,Amman,2024-07-01,28.0
+424,65,2025-05-01,shipped,1052,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,32.0
+424,65,2025-05-01,shipped,1053,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Nayef Zu'mot,nayef.zumot@email.com,Amman,2024-07-25,9.5
+425,67,2025-05-02,completed,1054,9,2,Wool Scarf,Clothing,25.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,50.0
+425,67,2025-05-02,completed,1055,18,1,Designing Data-Intensive Apps,Books,62.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,62.0
+425,67,2025-05-02,completed,1056,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Ragheb Al-Dabbas,ragheb.dabbas@email.com,Madaba,2024-08-10,15.0
+426,69,2025-05-03,completed,1057,7,1,Denim Jeans,Clothing,52.0,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,52.0
+426,69,2025-05-03,completed,1058,24,1,Dumbbell Pair 5kg,Sports,35.0,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,35.0
+428,73,2025-05-05,completed,1062,2,1,USB-C Charging Cable,Electronics,8.5,Imad Dmaiseh,imad.dmaiseh@email.com,Aqaba,2024-09-25,8.5
+428,73,2025-05-05,completed,1063,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Imad Dmaiseh,imad.dmaiseh@email.com,Aqaba,2024-09-25,24.0
+429,75,2025-05-06,processing,1064,5,1,Webcam HD 1080p,Electronics,55.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,55.0
+429,75,2025-05-06,processing,1065,20,1,Clean Code,Books,42.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,42.0
+429,75,2025-05-06,processing,1066,22,1,Resistance Band Set,Sports,19.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,19.0
+430,77,2025-05-07,completed,1067,8,1,Running Shoes,Clothing,78.0,Hamzeh Al-Btoush,hamzeh.btoush@email.com,Irbid,2024-10-28,78.0
+430,77,2025-05-07,completed,1068,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Hamzeh Al-Btoush,hamzeh.btoush@email.com,Irbid,2024-10-28,36.0
+431,79,2025-05-08,completed,1070,14,1,Kitchen Knife Set,Home & Garden,65.0,Shaker Hijazeen,shaker.hijazeen@email.com,Madaba,2024-11-14,65.0
+432,81,2025-05-09,shipped,1071,6,1,Cotton T-Shirt,Clothing,18.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,18.0
+432,81,2025-05-09,shipped,1072,19,1,The Pragmatic Programmer,Books,48.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,48.0
+432,81,2025-05-09,shipped,1073,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,32.0
+433,83,2025-05-10,completed,1074,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Ismail Hmoud,ismail.hmoud@email.com,Aqaba,2024-12-18,90.0
+433,83,2025-05-10,completed,1075,23,1,Jump Rope,Sports,12.0,Ismail Hmoud,ismail.hmoud@email.com,Aqaba,2024-12-18,12.0
+434,85,2025-05-11,completed,1076,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Qais Al-Fayez,qais.fayez@email.com,Irbid,2025-01-14,32.0
+434,85,2025-05-11,completed,1077,25,1,Sports Water Bottle,Sports,14.0,Qais Al-Fayez,qais.fayez@email.com,Irbid,2025-01-14,14.0
+436,89,2025-05-13,completed,1081,7,1,Denim Jeans,Clothing,52.0,Haitham Krishan,haitham.krishan@email.com,Zarqa,2025-02-14,52.0
+436,89,2025-05-13,completed,1082,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Haitham Krishan,haitham.krishan@email.com,Zarqa,2025-02-14,15.0
+437,91,2025-05-14,processing,1083,4,1,Mechanical Keyboard,Electronics,89.0,Mutaz Al-Shawabkeh,mutaz.shawabkeh@email.com,Madaba,2025-02-28,89.0
+437,91,2025-05-14,processing,1084,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Mutaz Al-Shawabkeh,mutaz.shawabkeh@email.com,Madaba,2025-02-28,48.0
+437,91,2025-05-14,processing,1085,21,1,Yoga Mat,Sports,28.0,Mutaz Al-Shawabkeh,mutaz.shawabkeh@email.com,Madaba,2025-02-28,28.0
+438,93,2025-05-15,completed,1086,2,1,USB-C Charging Cable,Electronics,8.5,Saif Majeed,saif.majeed@email.com,Amman,2025-03-10,8.5
+438,93,2025-05-15,completed,1087,11,2,Ceramic Plant Pot,Home & Garden,15.0,Saif Majeed,saif.majeed@email.com,Amman,2025-03-10,30.0
+439,95,2025-05-16,completed,1088,5,1,Webcam HD 1080p,Electronics,55.0,Nasser Al-Dhoon,nasser.dhoon@email.com,Amman,2025-03-14,55.0
+439,95,2025-05-16,completed,1089,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Nasser Al-Dhoon,nasser.dhoon@email.com,Amman,2025-03-14,9.5
+439,95,2025-05-16,completed,1090,24,1,Dumbbell Pair 5kg,Sports,35.0,Nasser Al-Dhoon,nasser.dhoon@email.com,Amman,2025-03-14,35.0
+440,97,2025-05-17,shipped,1091,8,1,Running Shoes,Clothing,78.0,Samer Jaber,samer.jaber@email.com,Salt,2025-03-15,78.0
+440,97,2025-05-17,shipped,1092,18,1,Designing Data-Intensive Apps,Books,62.0,Samer Jaber,samer.jaber@email.com,Salt,2025-03-15,62.0
+441,99,2025-05-18,completed,1093,10,2,Leather Belt,Clothing,30.0,Farah Hamaydeh,farah.hamaydeh@email.com,Irbid,2025-03-10,60.0
+441,99,2025-05-18,completed,1094,16,1,Introduction to Algorithms,Books,85.0,Farah Hamaydeh,farah.hamaydeh@email.com,Irbid,2025-03-10,85.0
+441,99,2025-05-18,completed,1095,22,1,Resistance Band Set,Sports,19.0,Farah Hamaydeh,farah.hamaydeh@email.com,Irbid,2025-03-10,19.0
+442,2,2025-05-19,completed,1096,6,1,Cotton T-Shirt,Clothing,18.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,18.0
+442,2,2025-05-19,completed,1097,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Fatima Al-Husseini,fatima.husseini@email.com,Irbid,2023-01-22,24.0
+444,6,2025-05-21,completed,1101,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,32.0
+444,6,2025-05-21,completed,1102,20,1,Clean Code,Books,42.0,Rania Al-Khatib,rania.khatib@email.com,Aqaba,2023-03-01,42.0
+445,9,2025-05-22,completed,1103,9,1,Wool Scarf,Clothing,25.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,25.0
+445,9,2025-05-22,completed,1104,14,2,Kitchen Knife Set,Home & Garden,65.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,130.0
+445,9,2025-05-22,completed,1105,19,1,The Pragmatic Programmer,Books,48.0,Tariq Obeidat,tariq.obeidat@email.com,Amman,2023-04-02,48.0
+446,11,2025-05-23,processing,1106,7,1,Denim Jeans,Clothing,52.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,52.0
+446,11,2025-05-23,processing,1107,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Sami Al-Rawashdeh,sami.rawashdeh@email.com,Zarqa,2023-04-18,32.0
+447,14,2025-05-24,completed,1108,4,1,Mechanical Keyboard,Electronics,89.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,89.0
+447,14,2025-05-24,completed,1109,23,1,Jump Rope,Sports,12.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,12.0
+447,14,2025-05-24,completed,1110,25,1,Sports Water Bottle,Sports,14.0,Rana Abu-Ghazaleh,rana.abughazaleh@email.com,Aqaba,2023-05-14,14.0
+448,16,2025-06-01,completed,1111,2,2,USB-C Charging Cable,Electronics,8.5,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,17.0
+448,16,2025-06-01,completed,1112,17,1,Python Data Science Handbook,Books,55.0,Mona Batayneh,mona.batayneh@email.com,Irbid,2023-06-01,55.0
+449,19,2025-06-02,shipped,1113,5,1,Webcam HD 1080p,Electronics,55.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,55.0
+449,19,2025-06-02,shipped,1114,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,15.0
+449,19,2025-06-02,shipped,1115,12,1,LED Desk Lamp,Home & Garden,42.0,Ibrahim Jaradat,ibrahim.jaradat@email.com,Madaba,2023-06-25,42.0
+450,21,2025-06-03,completed,1116,8,1,Running Shoes,Clothing,78.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,78.0
+450,21,2025-06-03,completed,1117,21,2,Yoga Mat,Sports,28.0,Hassan Smadi,hassan.smadi@email.com,Zarqa,2023-07-12,56.0
+451,24,2025-06-04,completed,1118,10,1,Leather Belt,Clothing,30.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,30.0
+451,24,2025-06-04,completed,1119,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,48.0
+451,24,2025-06-04,completed,1120,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Reem Gharaibeh,reem.gharaibeh@email.com,Unknown,2023-08-05,9.5
+453,29,2025-06-06,completed,1123,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,45.0
+453,29,2025-06-06,completed,1124,18,1,Designing Data-Intensive Apps,Books,62.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,62.0
+453,29,2025-06-06,completed,1125,22,2,Resistance Band Set,Sports,19.0,Rashid Al-Ajlouni,rashid.ajlouni@email.com,Amman,2023-09-18,38.0
+454,31,2025-06-07,processing,1126,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,32.0
+454,31,2025-06-07,processing,1127,11,1,Ceramic Plant Pot,Home & Garden,15.0,Ayman Daradkeh,ayman.daradkeh@email.com,Unknown,2023-10-03,15.0
+455,34,2025-06-08,completed,1128,9,1,Wool Scarf,Clothing,25.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,25.0
+455,34,2025-06-08,completed,1129,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,18.0
+455,34,2025-06-08,completed,1130,16,1,Introduction to Algorithms,Books,85.0,Suha Masarweh,suha.masarweh@email.com,Aqaba,2023-10-28,85.0
+456,36,2025-06-09,completed,1131,7,1,Denim Jeans,Clothing,52.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,52.0
+456,36,2025-06-09,completed,1132,27,2,Jordanian Olive Oil 1L,Food & Beverage,24.0,Abeer Al-Tamimi,abeer.tamimi@email.com,Amman,2023-11-14,48.0
+457,39,2025-06-10,shipped,1133,4,1,Mechanical Keyboard,Electronics,89.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,89.0
+457,39,2025-06-10,shipped,1134,20,1,Clean Code,Books,42.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,42.0
+457,39,2025-06-10,shipped,1135,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Tamer Zu'bi,tamer.zubi@email.com,Amman,2023-12-10,15.0
+458,41,2025-06-11,completed,1136,2,1,USB-C Charging Cable,Electronics,8.5,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,8.5
+458,41,2025-06-11,completed,1137,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Osama Louzi,osama.louzi@email.com,Zarqa,2024-01-05,22.0
+459,44,2025-06-12,completed,1138,5,1,Webcam HD 1080p,Electronics,55.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,55.0
+459,44,2025-06-12,completed,1139,19,2,The Pragmatic Programmer,Books,48.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,96.0
+459,44,2025-06-12,completed,1140,23,1,Jump Rope,Sports,12.0,Maysoon Al-Qadi,maysoon.qadi@email.com,Aqaba,2024-02-01,12.0
+461,49,2025-06-14,completed,1143,10,1,Leather Belt,Clothing,30.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,30.0
+461,49,2025-06-14,completed,1144,21,1,Yoga Mat,Sports,28.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,28.0
+461,49,2025-06-14,completed,1145,28,2,Medjool Dates 1kg,Food & Beverage,32.0,Firas Dmour,firas.dmour@email.com,Unknown,2024-03-18,64.0
+462,51,2025-06-15,completed,1146,6,1,Cotton T-Shirt,Clothing,18.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,18.0
+462,51,2025-06-15,completed,1147,25,1,Sports Water Bottle,Sports,14.0,Suhail Qtaishat,suhail.qtaishat@email.com,Zarqa,2024-04-02,14.0
+463,53,2025-06-16,processing,1148,1,2,Wireless Bluetooth Earbuds,Electronics,45.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,90.0
+463,53,2025-06-16,processing,1149,12,1,LED Desk Lamp,Home & Garden,42.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,42.0
+463,53,2025-06-16,processing,1150,17,1,Python Data Science Handbook,Books,55.0,Hazem Maayta,hazem.maayta@email.com,Irbid,2024-04-18,55.0
+464,56,2025-06-17,completed,1151,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Siham Majdalawi,siham.majdalawi@email.com,Unknown,2024-05-12,32.0
+464,56,2025-06-17,completed,1152,29,1,Za'atar Spice Mix 250g,Food & Beverage,9.5,Siham Majdalawi,siham.majdalawi@email.com,Unknown,2024-05-12,9.5
+465,59,2025-06-18,shipped,1153,9,1,Wool Scarf,Clothing,25.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,25.0
+465,59,2025-06-18,shipped,1154,22,1,Resistance Band Set,Sports,19.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,19.0
+465,59,2025-06-18,shipped,1155,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Kamal Sarhan,kamal.sarhan@email.com,Amman,2024-06-05,48.0
+466,61,2025-06-19,completed,1156,7,1,Denim Jeans,Clothing,52.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,52.0
+466,61,2025-06-19,completed,1157,24,2,Dumbbell Pair 5kg,Sports,35.0,Nasr Rabadi,nasr.rabadi@email.com,Irbid,2024-06-22,70.0
+467,63,2025-06-20,completed,1158,4,1,Mechanical Keyboard,Electronics,89.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,89.0
+467,63,2025-06-20,completed,1159,18,1,Designing Data-Intensive Apps,Books,62.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,62.0
+467,63,2025-06-20,completed,1160,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Jalal Theibat,jalal.theibat@email.com,Unknown,2024-07-10,18.0
+469,68,2025-06-22,completed,1163,5,2,Webcam HD 1080p,Electronics,55.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,110.0
+469,68,2025-06-22,completed,1164,11,1,Ceramic Plant Pot,Home & Garden,15.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,15.0
+469,68,2025-06-22,completed,1165,16,1,Introduction to Algorithms,Books,85.0,Fidaa Obaidat,fidaa.obaidat@email.com,Amman,2024-08-18,85.0
+470,70,2025-06-23,completed,1166,8,1,Running Shoes,Clothing,78.0,Haneen Khreisat,haneen.khreisat@email.com,Irbid,2024-09-02,78.0
+470,70,2025-06-23,completed,1167,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Haneen Khreisat,haneen.khreisat@email.com,Irbid,2024-09-02,24.0
+471,72,2025-06-24,processing,1168,10,1,Leather Belt,Clothing,30.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,30.0
+471,72,2025-06-24,processing,1169,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,22.0
+471,72,2025-06-24,processing,1170,20,2,Clean Code,Books,42.0,Rawia Al-Fugaha,rawia.fugaha@email.com,Amman,2024-09-18,84.0
+472,74,2025-06-25,completed,1171,6,1,Cotton T-Shirt,Clothing,18.0,Zeinab Shnikat,zeinab.shnikat@email.com,Amman,2024-10-03,18.0
+472,74,2025-06-25,completed,1172,23,1,Jump Rope,Sports,12.0,Zeinab Shnikat,zeinab.shnikat@email.com,Amman,2024-10-03,12.0
+473,76,2025-06-26,completed,1173,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Buthayna Quraan,buthayna.quraan@email.com,Salt,2024-10-20,45.0
+473,76,2025-06-26,completed,1174,19,1,The Pragmatic Programmer,Books,48.0,Buthayna Quraan,buthayna.quraan@email.com,Salt,2024-10-20,48.0
+473,76,2025-06-26,completed,1175,25,1,Sports Water Bottle,Sports,14.0,Buthayna Quraan,buthayna.quraan@email.com,Salt,2024-10-20,14.0
+474,78,2025-06-27,shipped,1176,3,2,Portable Power Bank 10000mAh,Electronics,32.0,Mayada Tal,mayada.tal@email.com,Amman,2024-11-05,64.0
+474,78,2025-06-27,shipped,1177,14,1,Kitchen Knife Set,Home & Garden,65.0,Mayada Tal,mayada.tal@email.com,Amman,2024-11-05,65.0
+475,80,2025-06-28,completed,1178,9,1,Wool Scarf,Clothing,25.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,25.0
+475,80,2025-06-28,completed,1179,28,1,Medjool Dates 1kg,Food & Beverage,32.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,32.0
+475,80,2025-06-28,completed,1180,21,1,Yoga Mat,Sports,28.0,Lamis Rababah,lamis.rababah@email.com,Zarqa,2024-11-22,28.0
+476,82,2025-06-29,completed,1181,7,1,Denim Jeans,Clothing,52.0,Tamam Khreisha,tamam.khreisha@email.com,Unknown,2024-12-10,52.0
+476,82,2025-06-29,completed,1182,17,2,Python Data Science Handbook,Books,55.0,Tamam Khreisha,tamam.khreisha@email.com,Unknown,2024-12-10,110.0
+478,86,2025-06-30,completed,1186,2,1,USB-C Charging Cable,Electronics,8.5,Mais Qawasmeh,mais.qawasmeh@email.com,Salt,2025-01-22,8.5
+478,86,2025-06-30,completed,1187,22,1,Resistance Band Set,Sports,19.0,Mais Qawasmeh,mais.qawasmeh@email.com,Salt,2025-01-22,19.0
+479,88,2025-06-30,completed,1188,5,1,Webcam HD 1080p,Electronics,55.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,55.0
+479,88,2025-06-30,completed,1189,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,48.0
+479,88,2025-06-30,completed,1190,26,2,Arabic Coffee Blend 500g,Food & Beverage,18.0,Thuraya Al-Madi,thuraya.madi@email.com,Unknown,2025-02-05,36.0
+480,90,2025-06-30,shipped,1191,8,1,Running Shoes,Clothing,78.0,Nawal Fayyad,nawal.fayyad@email.com,Amman,2025-02-20,78.0
+480,90,2025-06-30,shipped,1192,24,1,Dumbbell Pair 5kg,Sports,35.0,Nawal Fayyad,nawal.fayyad@email.com,Amman,2025-02-20,35.0
+481,92,2025-06-30,completed,1193,10,2,Leather Belt,Clothing,30.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,60.0
+481,92,2025-06-30,completed,1194,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,15.0
+481,92,2025-06-30,completed,1195,18,1,Designing Data-Intensive Apps,Books,62.0,Rim Bani-Khaled,rim.banikhaled@email.com,Irbid,2025-03-05,62.0
+482,94,2025-06-30,processing,1196,6,1,Cotton T-Shirt,Clothing,18.0,Arwa Hajjaj,arwa.hajjaj@email.com,Aqaba,2025-03-12,18.0
+482,94,2025-06-30,processing,1197,11,1,Ceramic Plant Pot,Home & Garden,15.0,Arwa Hajjaj,arwa.hajjaj@email.com,Aqaba,2025-03-12,15.0
+483,96,2025-06-30,completed,1198,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,45.0
+483,96,2025-06-30,completed,1199,20,1,Clean Code,Books,42.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,42.0
+483,96,2025-06-30,completed,1200,16,2,Introduction to Algorithms,Books,85.0,Duha Atiyat,duha.atiyat@email.com,Unknown,2025-03-15,170.0
+484,98,2025-06-30,completed,1201,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Laith Al-Khalidi,laith.khalidi@email.com,Amman,2025-03-08,32.0
+484,98,2025-06-30,completed,1202,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Laith Al-Khalidi,laith.khalidi@email.com,Amman,2025-03-08,24.0
+485,100,2025-06-30,completed,1203,9,1,Wool Scarf,Clothing,25.0,Yazan Bani-Mustafa,yazan.banimustafa@email.com,Zarqa,2025-03-12,25.0
+485,100,2025-06-30,completed,1204,13,2,Stainless Steel Water Bottle,Home & Garden,22.0,Yazan Bani-Mustafa,yazan.banimustafa@email.com,Zarqa,2025-03-12,44.0
+485,100,2025-06-30,completed,1205,23,1,Jump Rope,Sports,12.0,Yazan Bani-Mustafa,yazan.banimustafa@email.com,Zarqa,2025-03-12,12.0
+486,7,2025-06-30,shipped,1206,7,1,Denim Jeans,Clothing,52.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,52.0
+486,7,2025-06-30,shipped,1207,25,1,Sports Water Bottle,Sports,14.0,Yousef Haddad,yousef.haddad@email.com,Salt,2023-03-12,14.0
+487,13,2025-06-30,completed,1208,4,1,Mechanical Keyboard,Electronics,89.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,89.0
+487,13,2025-06-30,completed,1209,14,1,Kitchen Knife Set,Home & Garden,65.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,65.0
+487,13,2025-06-30,completed,1210,19,1,The Pragmatic Programmer,Books,48.0,Mazen Tawalbeh,mazen.tawalbeh@email.com,Amman,2023-05-05,48.0
+489,23,2025-06-30,completed,1214,21,1,Yoga Mat,Sports,28.0,Basil Malkawi,basil.malkawi@email.com,Irbid,2023-07-28,28.0
+490,27,2025-06-30,completed,1215,8,1,Running Shoes,Clothing,78.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,78.0
+490,27,2025-06-30,completed,1216,17,1,Python Data Science Handbook,Books,55.0,Zaid Al-Momani,zaid.momani@email.com,Salt,2023-09-01,55.0
+491,32,2025-06-30,processing,1217,10,1,Leather Belt,Clothing,30.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,30.0
+491,32,2025-06-30,processing,1218,22,1,Resistance Band Set,Sports,19.0,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,19.0
+491,32,2025-06-30,processing,1219,29,2,Za'atar Spice Mix 250g,Food & Beverage,9.5,Ghada Nsour,ghada.nsour@email.com,Irbid,2023-10-12,19.0
+492,37,2025-06-30,completed,1220,6,1,Cotton T-Shirt,Clothing,18.0,Muhannad Awamleh,muhannad.awamleh@email.com,Unknown,2023-11-22,18.0
+492,37,2025-06-30,completed,1221,12,1,LED Desk Lamp,Home & Garden,42.0,Muhannad Awamleh,muhannad.awamleh@email.com,Unknown,2023-11-22,42.0
+493,43,2025-06-30,completed,1222,1,1,Wireless Bluetooth Earbuds,Electronics,45.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,45.0
+493,43,2025-06-30,completed,1223,24,2,Dumbbell Pair 5kg,Sports,35.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,70.0
+493,43,2025-06-30,completed,1224,15,1,Cotton Bed Sheet Set,Home & Garden,48.0,Bilal Faouri,bilal.faouri@email.com,Unknown,2024-01-22,48.0
+494,47,2025-06-30,shipped,1225,3,1,Portable Power Bank 10000mAh,Electronics,32.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,32.0
+494,47,2025-06-30,shipped,1226,30,1,Mansaf Spice Kit,Food & Beverage,15.0,Adnan Rousan,adnan.rousan@email.com,Irbid,2024-03-01,15.0
+495,54,2025-06-30,completed,1227,9,1,Wool Scarf,Clothing,25.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,25.0
+495,54,2025-06-30,completed,1228,18,1,Designing Data-Intensive Apps,Books,62.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,62.0
+495,54,2025-06-30,completed,1229,26,1,Arabic Coffee Blend 500g,Food & Beverage,18.0,Najwa Al-Bdour,najwa.bdour@email.com,Aqaba,2024-04-25,18.0
+496,57,2025-06-30,completed,1230,7,2,Denim Jeans,Clothing,52.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,104.0
+496,57,2025-06-30,completed,1231,16,1,Introduction to Algorithms,Books,85.0,Rafiq Ghawanmeh,rafiq.ghawanmeh@email.com,Salt,2024-05-20,85.0
+498,69,2025-06-30,completed,1235,2,1,USB-C Charging Cable,Electronics,8.5,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,8.5
+498,69,2025-06-30,completed,1236,23,2,Jump Rope,Sports,12.0,Munther Bsoul,munther.bsoul@email.com,Unknown,2024-08-25,24.0
+499,75,2025-06-30,completed,1237,5,1,Webcam HD 1080p,Electronics,55.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,55.0
+499,75,2025-06-30,completed,1238,27,1,Jordanian Olive Oil 1L,Food & Beverage,24.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,24.0
+499,75,2025-06-30,completed,1239,13,1,Stainless Steel Water Bottle,Home & Garden,22.0,Amer Saraireh,amer.saraireh@email.com,Unknown,2024-10-12,22.0
+500,81,2025-06-30,processing,1240,8,1,Running Shoes,Clothing,78.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,78.0
+500,81,2025-06-30,processing,1241,25,1,Sports Water Bottle,Sports,14.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,14.0
+500,81,2025-06-30,processing,1242,14,1,Kitchen Knife Set,Home & Garden,65.0,Bashar Al-Adwan,bashar.adwan@email.com,Amman,2024-12-01,65.0
