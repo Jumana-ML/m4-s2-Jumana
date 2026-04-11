@@ -10,29 +10,30 @@ matplotlib.use('Agg')
 def generate_market_analysis_chart():
     """
     Main function to process sales data and generate a high-resolution 
-    Average Order Value (AOV) chart.
+    Average Order Value (AOV) chart, compatible with any machine.
     """
     
-    # 1. PATH CONFIGURATION
-    # Using 'r' before the string to handle backslashes in Windows paths correctly
-    base_path = r"C:\Users\DELL\m4-s2-Jumana\contributions\Jumana-ML"
-    data_file = os.path.join(base_path, "amman_market_data.csv")
-    output_image = os.path.join(base_path, "market_analysis_high_res.png")
+    # 1. DYNAMIC PATH CONFIGURATION
+    # This line automatically detects the folder where this .py script is saved
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    
+    # Join the directory path with filenames (Works on Windows, Mac, and Linux)
+    data_file = os.path.join(current_directory, "amman_market_data.csv")
+    output_image = os.path.join(current_directory, "market_analysis_high_res.png")
 
-    # Check if the CSV file exists at the specified path
+    # Check if the CSV file exists in the current folder
     if not os.path.exists(data_file):
         print(f"Error: Could not find the file at: {data_file}")
+        print("Make sure the CSV file is in the same folder as this script.")
         return
 
     # 2. DATA PROCESSING
-    # Load the dataset into a Pandas DataFrame
     df = pd.read_csv(data_file)
     
-    # Sort data by Order ID and Line Total (Descending) 
-    # This puts the most expensive item of each order at the top
+    # Sort data: Largest line_total first for each order to find the dominant category
     df = df.sort_values(by=['order_id', 'line_total'], ascending=[True, False])
     
-    # Aggregate data: Sum the total money per order and pick the 'first' (dominant) category
+    # Aggregate data: Total money per order and the 'first' (most expensive) category
     orders = df.groupby('order_id').agg({
         'line_total': 'sum',
         'category': 'first'
@@ -41,13 +42,11 @@ def generate_market_analysis_chart():
     # Calculate the Average Order Value (AOV) for each category
     aov_data = orders.groupby('category')['line_total'].mean().sort_values(ascending=False)
 
-    # 3. VISUALIZATION SETUP
-    # Set a clean professional theme and high-definition resolution (300 DPI)
+    # 3. VISUALIZATION SETUP (High Definition 300 DPI)
     sns.set_theme(style="white")
     plt.figure(figsize=(14, 8), dpi=300)
 
     # Create the horizontal bar plot
-    # hue=index avoids warnings in newer Seaborn versions
     ax = sns.barplot(
         x=aov_data.values, 
         y=aov_data.index, 
@@ -56,11 +55,10 @@ def generate_market_analysis_chart():
         legend=False
     )
 
-    # 4. DATA LABELING (For beginners: using a manual counter)
+    # 4. DATA LABELING (Manual loop for clarity)
     row_index = 0
     for value in aov_data.values:
-        # Place text: X position = value + 1.5 (gap), Y position = row number
-        # .2f formats the number to 2 decimal places
+        # Place JOD text at the end of each bar
         ax.text(value + 1.5, row_index, f'{value:.2f} JOD', 
                 va='center', fontweight='bold', color='#333333')
         row_index = row_index + 1
@@ -69,7 +67,6 @@ def generate_market_analysis_chart():
     plt.title("Books & Electronics Lead the Market in Average Order Value", 
               fontsize=18, fontweight='bold', pad=25, loc='left')
 
-    # Add subtitle explaining the "Dominant Category" logic
     plt.text(0, -0.6, "Analysis based on dominant category | High-value items drive the Books AOV.", 
              fontsize=11, color='gray', style='italic')
 
@@ -77,16 +74,15 @@ def generate_market_analysis_chart():
     plt.ylabel("Product Category", fontsize=12, fontweight='semibold')
 
     # 6. FINAL CLEANUP
-    # Remove chart borders for a modern look
     sns.despine(left=True, bottom=True)
-    ax.grid(axis='x', linestyle='--', alpha=0.3) # Add light vertical grid lines
+    ax.grid(axis='x', linestyle='--', alpha=0.3)
 
     # 7. EXPORTING
-    # Save the file to the specific project folder and close the plot to free memory
+    # Save the file to the same directory as the script
     plt.savefig(output_image, dpi=300, bbox_inches='tight')
     plt.close() 
     
-    print(f"Success! The professional chart has been saved to:\n{output_image}")
+    print(f"Success! The chart has been saved to the script's folder:\n{output_image}")
 
 # Execute the function
 if __name__ == "__main__":
